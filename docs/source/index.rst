@@ -11,6 +11,8 @@ Welcome to Vanderbilt - Starting Grad School's documentation!
    :caption: Contents:
 
    mac_101
+   python_intro
+   useful_links
 
 
 
