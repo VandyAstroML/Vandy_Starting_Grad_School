@@ -10,6 +10,8 @@ Welcome to Vanderbilt - Starting Grad School's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   mac_101
+
 
 
 Indices and tables

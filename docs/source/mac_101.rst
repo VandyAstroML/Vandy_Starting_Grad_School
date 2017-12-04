@@ -1,0 +1,6 @@
+==========================
+MAC 101: An Introduction
+==========================
+
+This is an introduction to the things that you should know about 
+your new Mac.
