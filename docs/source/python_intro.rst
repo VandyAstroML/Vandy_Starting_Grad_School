@@ -1,6 +1,6 @@
-====================
-Python 101
-====================
+================================================
+Python 101 - Anaconda, environments, and more
+================================================
 
 This is a small introduction of what *I* think you should have installed 
 in order to property use python in your projects.
@@ -10,7 +10,7 @@ Anaconda
 --------------------
 
 The very first thing for you to have is 
-`**Anaconda** <https://www.anaconda.com>`_ installed.
+**`Anaconda <https://www.anaconda.com>`_** installed.
 From their website:
 
     With over 4.5 million users, Anaconda is the world’s most popular Python 
@@ -65,7 +65,7 @@ terminal:
 .. note:: If you're using a separate machine, to which you `ssh`, you can 
     install *Anaconda* to a specified location other than your home directory.
     This is important if you are limited by *the number of files in your 
-    home directory*, e.g. a computer hosted by 
+    home directory**, e.g. a computer hosted by 
     `ACCRE <http://www.accre.vanderbilt.edu/>`_.
 
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -73,7 +73,7 @@ Managing environments
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 When working on a project, it is really important to keep 
-** reproducibility** in mind. For example, if you were to hand me you 
+**reproducibility** in mind. For example, if you were to hand me you 
 code, I should be able to read the documentation and understand it, as 
 well as **running the code**.
 
@@ -90,17 +90,24 @@ An example for such file would look like
 
     name: example-environment
 
+    channels:
+      - defaults
+
     dependencies:
-      - python=3.4
+      - python=3
+      - anaconda
+      - astropy
+      - h5py
       - numpy
-      - toolz
-      - matplotlib
-      - dill
       - pandas
-      - partd
-      - bokeh
+      - scipy
+      - seaborn
+      - pip
       - pip:
-        - git+https://github.com/blaze/dask.git#egg=dask[complete]
+        - GitPython
+        - progressbar2
+        - halotools
+        - sphinx_rtd_theme
 
 You can install the desired environment `example-environment` by 
 running the command on the terminal:
