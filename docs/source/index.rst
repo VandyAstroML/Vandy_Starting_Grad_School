@@ -14,11 +14,3 @@ Welcome to Vanderbilt - Starting Grad School's documentation!
    python_intro
    useful_links
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
