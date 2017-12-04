@@ -50,7 +50,7 @@ master_doc = 'index'
 # General information about the project.
 project = 'Vanderbilt - Starting Grad School'
 copyright = '2017, Victor Calderon'
-author = 'Victor Calderon'
+author = 'Victor Calderon <victor.calderon90@gmail.com>'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
