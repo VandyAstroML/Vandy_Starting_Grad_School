@@ -137,8 +137,8 @@ look at your code, understand it well enough to be able to **recreate**
 your results.
 
 I would suggest starting with the 
-**`Cookiecutter Data Science <https://drivendata.github.io/cookiecutter-data-science/>`_** 
-(`https://drivendata.github.io/cookiecutter-data-science/`_) 
+`Cookiecutter Data Science <https://drivendata.github.io/cookiecutter-data-science/>`_ 
+( `https://drivendata.github.io/cookiecutter-data-science/`_ ) 
 project structure, a 
 
     *A logical, reasonably standardized, but flexible project structure for 
