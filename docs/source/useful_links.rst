@@ -28,7 +28,7 @@ Reading Papers
 - `Astrobites <https://astrobites.org/>`_ - The astro-ph reader's digest
 - `Astrobitos <https://astrobitos.org/>`_ - Spanish version of **Astrobites**
 - `Daily Brew <http://www.astronomy.ohio-state.edu/Coffee/coffee.html>`_ - Selected astro-ph abstracts for Astro
-- 
+- `Benty Fields <https://www.benty-fields.com/>`_ - Selected papers to use. It uses ML to suggest you new papers.
 
 -----------------
 Version Control
