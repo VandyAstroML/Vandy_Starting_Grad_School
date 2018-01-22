@@ -64,5 +64,32 @@ At this point, your :code:`~/.ssh` folder should look like this:
     -rw-------@   1 victor2  staff   1.4K Jan 21 19:03 config
     drwx------    2 victor2  staff    64B Jan 22 16:37 connections/
 
+Now you can access a remote computer by logging in from the terminal:
+
+.. code::
+
+    ssh username@123456.server.io
+
+The tedious thing about this is that it will prompt you for 
+your password anytime that you want to access the remote server.
+
+This can be solved by using **SSH keys**.
+
+
+^^^^^^^^^^^^^
+SSH-KEYS
+^^^^^^^^^^^^^
+
+Some servers are configured to accept encryption keys in addition 
+to (or instead of) requiring a password. This can be more secure 
+since the account cannot be compromised by someone guessing passwords!
+
+SSH keys are comprised of a *public* and a *private* key. The public 
+key can be given to anyone (hence the name). If you connect to a server 
+that has your public key and you can provide your private key, it will 
+let you in. (Consequently, if your private key is **stolen**, 
+someone else can log into your account!)
+
+
 
 

@@ -231,11 +231,11 @@ Now that you have a working project from **cookiecutter**, you
 can start by editing the *environment* of your project.
 
 If you downloaded **my version of cookiecutter**, you should be able 
-to edit the *environment.yml**. This file states which packages 
+to edit the :code:`environment.yml`. This file states which packages 
 need to be installed by Anaconda and Pip in order to run the 
 scripts of the package.
 
-The *environment.yml* file looks like the following:
+The :code:`environment.yml` file looks like the following:
 
 .. code::
 
