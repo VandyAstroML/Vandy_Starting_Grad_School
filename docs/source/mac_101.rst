@@ -4,3 +4,36 @@ MAC 101: An Introduction
 
 This is an introduction to the things that you should know about 
 your new Mac.
+
+In this section we discuss how to properly setup your Mac, how 
+to SSH onto a remote computer, and more.
+
+
+-------------
+SSH
+-------------
+
+For most of the research being done in graduate school, one needs 
+to access a remote computer that have more processors, more disk space 
+than your computer. For this, you can **SSH** onto a remote 
+computer via the terminal.
+
+In order to do that, you first need to do the following in the terminal
+
+.. code::
+
+    ## Creating new SSH folder
+    % cd $HOME
+    % mkdir .ssh
+    % chmod 700 .ssh
+    ## SSH Configuration file
+    % cd .ssh
+    % touch config
+    % chmod 600 config
+    ## Authorized_keys file
+    % touch authorized_keys
+    % chmod 700 authorized_keys
+    ## Connections Folder
+    % mkdir connections
+    % chmod 700 connections
+
