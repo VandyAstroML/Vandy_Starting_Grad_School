@@ -136,6 +136,10 @@ in mind when you're structuring your project will allow others to
 look at your code, understand it well enough to be able to **recreate** 
 your results.
 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Cookiecutter and Folder Structure
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 I would suggest starting with the 
 `Cookiecutter Data Science <https://drivendata.github.io/cookiecutter-data-science/>`_ 
 project structure, a 
@@ -213,6 +217,55 @@ To start a **new project**:
     For *my version* of the cookiecutter Data Science *template*, you can 
     clone `<https://github.com/vcalderon2009/cookiecutter-data-science/>`_ 
     and use that folder structure instead.
+
+Once you have cloned and answered the questions by *cookiecutter*, 
+you will have a directory with a folder structure that allows for 
+easy reproducibility.
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Editing your environment
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Now that you have a working project from **cookiecutter**, you 
+can start by editing the *environment* of your project.
+
+If you downloaded **my version of cookiecutter**, you should be able 
+to edit the *environment.yml**. This file states which packages 
+need to be installed by Anaconda and Pip in order to run the 
+scripts of the package.
+
+The *environment.yml* file looks like the folliowing:
+
+.. code::
+
+    name: name_of_environment
+
+    channels:
+      - defaults
+
+    dependencies:
+      - python>=3.6
+      - ipython
+      - anaconda
+      - astropy
+      - h5py
+      - numpy
+      - pandas
+      - scipy
+      - seaborn
+      - pip
+      - pip:
+        - GitPython
+        - progressbar2
+    
+By executing the command
+::
+    
+    make environment
+
+you should be able to install **all** of the required packages, assuming 
+that you have properly installed Anaconda on your computer.
 
 
 
