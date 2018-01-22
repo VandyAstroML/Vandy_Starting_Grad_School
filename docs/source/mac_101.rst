@@ -52,3 +52,17 @@ In order to do that, you first need to do the following in the terminal
     $ chmod 700 connections
 
 
+At this point, your :code:`~/.ssh` folder should look like this:
+
+.. code::
+
+    $ ls -lah ~/.ssh
+
+    drwx------    8 victor2  staff   256B Jan 21 18:37 ./
+    drwxr-xr-x@ 161 victor2  staff   5.0K Jan 21 20:24 ../
+    -rw-------@   9 victor2  staff   288B Jan 21 18:37 authorized_keys
+    -rw-------@   1 victor2  staff   1.4K Jan 21 19:03 config
+    drwx------    2 victor2  staff    64B Jan 22 16:37 connections/
+
+
+
