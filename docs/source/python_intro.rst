@@ -235,7 +235,7 @@ to edit the *environment.yml**. This file states which packages
 need to be installed by Anaconda and Pip in order to run the 
 scripts of the package.
 
-The *environment.yml* file looks like the folliowing:
+The *environment.yml* file looks like the following:
 
 .. code::
 

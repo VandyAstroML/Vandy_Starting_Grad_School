@@ -20,20 +20,35 @@ computer via the terminal.
 
 In order to do that, you first need to do the following in the terminal
 
+* Create the new SSH folder
+
 .. code::
 
-    ## Creating new SSH folder
-    % cd $HOME
-    % mkdir .ssh
-    % chmod 700 .ssh
-    ## SSH Configuration file
-    % cd .ssh
-    % touch config
-    % chmod 600 config
-    ## Authorized_keys file
-    % touch authorized_keys
-    % chmod 700 authorized_keys
-    ## Connections Folder
-    % mkdir connections
-    % chmod 700 connections
+    $ cd $HOME
+    $ mkdir .ssh
+    $ chmod 700 .ssh
+
+* SSH Configuration file
+
+.. code::
+
+    $ cd ~/.ssh
+    $ touch config
+    $ chmod 600 config
+
+* Authorized_keys file
+
+.. code::
+
+    $ cd ~/.ssh
+    $ touch authorized_keys
+    $ chmod 700 authorized_keys
+
+* Connections Folder
+
+.. code::
+    $ cd ~/.ssh
+    $ mkdir connections
+    $ chmod 700 connections
+
 
