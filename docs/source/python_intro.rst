@@ -10,7 +10,7 @@ Anaconda
 --------------------
 
 The very first thing for you to have is 
-**`Anaconda <https://www.anaconda.com>`_** installed.
+`Anaconda <https://www.anaconda.com>`_ installed.
 From their website:
 
     With over 4.5 million users, Anaconda is the world’s most popular Python 
