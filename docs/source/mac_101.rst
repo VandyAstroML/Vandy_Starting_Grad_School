@@ -90,6 +90,30 @@ that has your public key and you can provide your private key, it will
 let you in. (Consequently, if your private key is **stolen**, 
 someone else can log into your account!)
 
+In order to **generate SSH keys**, you need to run the following:
+
+.. code:: bash
+
+    $ cd ~/.ssh
+    $ ssh-keygen -t rsa -b 4096
+    $ Generating public/private rsa key pair.
+    Enter file in which to save the key (/Users/calder/.ssh/id_rsa): id_rsa_4096
+    Enter passphrase (empty for no passphrase):
+    Enter same passphrase again:
+    $ ls
+    id_rsa_4096
+    id_rsa_4096.pub
+    $ chmod 600 id_rsa*
+
+.. note::
+
+    If you enter a passpharase, you will need to type that password every time 
+    you use the ssh keys (e.g. when connecting to a server). It's common to not 
+    create a password, but know that if the private key is lost, anyone can use 
+    them. (But they would have to know which server to connect to, which 
+    "config" file will provide!)
+
+
 
 
 
