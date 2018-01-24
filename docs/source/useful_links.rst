@@ -6,6 +6,9 @@ This is a set of useful links and resources that might make your
 days as a graduate student more comfortable.
 It includes links from science, coding, machine learning, etc.
 
+.. contents:: Table of Contents
+    :local:
+
 -----------------
 General
 -----------------
