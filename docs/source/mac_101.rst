@@ -8,6 +8,8 @@ your new Mac.
 In this section we discuss how to properly setup your Mac, how 
 to SSH onto a remote computer, and more.
 
+.. contents:: Table of Contents
+    :local:
 
 -------------
 SSH

@@ -5,6 +5,9 @@ Python 101 - Anaconda, environments, and more
 This is a small introduction of what *I* think you should have installed 
 in order to property use python in your projects.
 
+.. contents:: Table of Contents
+    :local:
+
 --------------------
 Anaconda
 --------------------
