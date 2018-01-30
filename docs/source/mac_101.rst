@@ -49,10 +49,26 @@ In order to do that, you first need to do the following in the terminal
 * Connections Folder
 
 .. code::
-    $ cd ~/.ssh
-    $ mkdir connections
-    $ chmod 700 connections
 
+    cd ~/.ssh
+    mkdir connections
+    chmod 700 connections
+
+* SSH-Keys Folder
+
+.. code::
+
+    cd ~/.ssh
+    mkdir ssh_keys
+    chmod 700 ssh_keys
+
+* Public Keys Folder
+
+.. code::
+
+    cd ~/.ssh
+    mkdir pub_keys
+    chmod 700 pub_keys
 
 At this point, your :code:`~/.ssh` folder should look like this:
 
@@ -65,6 +81,8 @@ At this point, your :code:`~/.ssh` folder should look like this:
     -rw-------@   9 victor2  staff   288B Jan 21 18:37 authorized_keys
     -rw-------@   1 victor2  staff   1.4K Jan 21 19:03 config
     drwx------    2 victor2  staff    64B Jan 22 16:37 connections/
+    drwx------    2 victor2  staff    64B Jan 22 16:37 pub_keys/
+    drwx------    2 victor2  staff    64B Jan 22 16:37 ssh_keys/
 
 Now you can access a remote computer by logging in from the terminal:
 
@@ -106,6 +124,26 @@ In order to **generate SSH keys**, you need to run the following:
     id_rsa_4096
     id_rsa_4096.pub
     $ chmod 600 id_rsa*
+    $ mv id_rsa_4096 ssh_keys/
+    $ mv id_rsa_4096.pub pub_keys
+
+Now you can add your *SSH-Keys* by typing the following:
+
+.. code::
+
+    ssh-add -K ~/.ssh/ssh_keys/*
+
+.. note::
+
+    The argument `-K` in `ssh-add` for adding the key to your **Keychain**
+    if you are on a MacOSX system. If not, just have the command 
+    `ssh-add ~/.ssh/ssh_keys/*` to add all of the SSH-KEYS that you 
+    have created.
+
+From now on, you should add the keys and their respective *public*
+keys to the `ssh_keys` and `pub_keys` folders, and then appy the 
+`chmod 600 key` and `chmod 600 key.pub` command, replacing `key` with the 
+name of the actual SSH-key.
 
 .. note::
 
