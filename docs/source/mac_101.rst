@@ -153,6 +153,9 @@ name of the actual SSH-key.
     them. (But they would have to know which server to connect to, which 
     "config" file will provide!)
 
+^^^^^^^^^^^^^^^^^
+SSH Config file
+^^^^^^^^^^^^^^^^^
 
 
 
