@@ -104,7 +104,7 @@ Some servers are configured to accept encryption keys in addition
 to (or instead of) requiring a password. This can be more secure 
 since the account cannot be compromised by someone guessing passwords!
 
-SSH keys are comprised of a *public* and a *private* key. The public 
+SSH keys are comprised of a **public* and a *private* key. The public 
 key can be given to anyone (hence the name). If you connect to a server 
 that has your public key and you can provide your private key, it will 
 let you in. (Consequently, if your private key is **stolen**, 
@@ -127,7 +127,7 @@ In order to **generate SSH keys**, you need to run the following:
     $ mv id_rsa_4096 ssh_keys/
     $ mv id_rsa_4096.pub pub_keys
 
-Now you can add your *SSH-Keys* by typing the following:
+Now you can add your **SSH-Keys** by typing the following:
 
 .. code::
 
@@ -135,15 +135,15 @@ Now you can add your *SSH-Keys* by typing the following:
 
 .. note::
 
-    The argument `-K` in `ssh-add` for adding the key to your **Keychain**
-    if you are on a MacOSX system. If not, just have the command 
-    `ssh-add ~/.ssh/ssh_keys/*` to add all of the SSH-KEYS that you 
+    The argument :code:`-K` in `ssh-add` for adding the key to your 
+    **Keychain** if you are on a MacOSX system. If not, just have the command 
+    :code:`ssh-add ~/.ssh/ssh_keys/*` to add all of the SSH-KEYS that you 
     have created.
 
 From now on, you should add the keys and their respective *public*
-keys to the `ssh_keys` and `pub_keys` folders, and then appy the 
-`chmod 600 key` and `chmod 600 key.pub` command, replacing `key` with the 
-name of the actual SSH-key.
+keys to the :code:`ssh_keys` and :code:`pub_keys` folders, and then run the 
+commands :code:`chmod 600 key` and :code:`chmod 600 key.pub` command, 
+replacing :code:`key` with the name of the actual SSH-key.
 
 .. note::
 
