@@ -10,7 +10,7 @@ In order to facilitate your time as a graduate student, here are
 some suggestions and tips to make your time in graduate school much easier.
 
 In case you have any questions, please contact me via 
-`victor.calderon@vanderbilt.edu <mailto:victor.calderon@vanderbilt.edu>`
+`victor.calderon@vanderbilt.edu <mailto:victor.calderon@vanderbilt.edu>`_
 
 .. toctree::
    :maxdepth: 2
