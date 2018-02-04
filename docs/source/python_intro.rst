@@ -121,7 +121,7 @@ For more information, see `<https://conda.io/docs/user-guide/tasks/manage-enviro
 
 .. note:: 
     A helpful package to use is 
-    **`conda-env-auto <https://github.com/chdoig/conda-auto-env>`** which allows 
+    **`conda-env-auto <https://github.com/chdoig/conda-auto-env>`_** which allows 
     you to automatically create and *activate* the project environment once you 
     are in the directory. For more information on how to install it and 
     use it, see `<https://github.com/chdoig/conda-auto-env>`_.
