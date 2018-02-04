@@ -80,7 +80,7 @@ General Learning
 Python & Anaconda
 -------------------
 
-- `Python Course <https://www.codecademy.com/learn/python>`_ by Codecademy
+- `Python Course <https://www.codecademy.com/learn/learn-python>`_ by Codecademy
 - `Learn Python the Hard way <http://learnpythonthehardway.org/>`_ - Free online course on Python
 - `Anaconda and Python <https://www.anaconda.com/>`_
 - `Scientific Python Lectures <https://github.com/jrjohansson/scientific-python-lectures>`_
