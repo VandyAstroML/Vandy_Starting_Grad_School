@@ -150,7 +150,7 @@ Machine Learning
 - `AstroML Book <https://press.princeton.edu/titles/10159.html>`_ or on `Amazon <https://www.amazon.com/Statistics-Mining-Machine-Learning-Astronomy/dp/0691151687>`_
 - `Machine Learning Course <https://www.coursera.org/learn/machine-learning/>`_ by Andrew Ng (Stanford)
 - `Victor Lavrenko's playlist <https://www.youtube.com/user/victorlavrenko/playlists>`_ on machine learning tutorials
-- `Introductory Applied Machine Learning <http://www.inf.ed.ac.uk/teaching/courses/iaml/>`_
+- `Introductory Applied Machine Learning <https://www.coursera.org/learn/python-machine-learning>`_
 - `Udacity's Deep Learning course <https://www.udacity.com/course/deep-learning--ud730>`_
 
 -----------------
