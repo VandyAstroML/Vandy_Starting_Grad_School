@@ -13,7 +13,7 @@ In case you have any questions, please contact me via
 `victor.calderon@vanderbilt.edu <mailto:victor.calderon@vanderbilt.edu>`_
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    mac_101
