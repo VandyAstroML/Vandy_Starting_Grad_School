@@ -119,7 +119,7 @@ Version Control
 - `Bitbucket <https://bitbucket.org/>`_
 
 -----------------
-SSH-KEYS
+SSH Keys
 -----------------
 
 - `How to Set up SSH Keys <https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2>`_
