@@ -19,6 +19,12 @@ General
 - `AstroBrew Schedule <https://as.vanderbilt.edu/astronomy/category/astrobrew/>`_
 - `Vandy Astronomy - Workshops and Seminars <https://vandyastroml.github.io>`_ Main Website for the Astronomy Workshops and Seminars at Vanderbilt
 
+----------------------------------
+MAC-related (if applicable)
+----------------------------------
+- `Setting up a MAC <http://www.astrobetter.com/wiki/Wiki+Home>`_
+- `Apps for MACs <http://www.astrobetter.com/wiki/tiki-index.php?page=Mac+Apps>`_
+
 -----------------
 Reading Papers
 -----------------
@@ -34,31 +40,114 @@ Reading Papers
 - `Benty Fields <https://www.benty-fields.com/>`_ - Selected papers to use. It uses ML to suggest you new papers.
 
 -----------------
+Paper Management
+-----------------
+
+- `Mendeley <https://www.mendeley.com/>`_
+
+-------------------
+Taking Notes
+-------------------
+
+- `Evernote <https://evernote.com/>`_
+- `OneNote <https://www.onenote.com/>`_
+
+-------------------
+Collaborations
+-------------------
+
+- `Slack <https://slack.com/>`_
+
+-----------------
+Conferences
+-----------------
+- `Python in Astronomy <http://openastronomy.org/pyastro/>`_
+- `Canadian Astronomy Data Centre <http://www1.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/>`_
+- `Conference Management Software for Astronomy <https://www.conference-service.com/conferences/gravitation-and-cosmology.html>`_
+
+-----------------
+General Learning
+-----------------
+
+- `The Tech Savvy Mission <https://techsavvyastro.io/>`_ - Empowering Researchers
+- `Coursera <https://www.coursera.org/>`_ - Free Online Courses
+- `EdX <https://www.edx.org/>`_ - Free Online Courses
+- `World Science U <http://www.worldscienceu.com/>`_
+- `World Science Festival <https://www.worldsciencefestival.com/>`_
+- `TED Talks <https://www.ted.com/>`_
+
+-------------------
+Python & Anaconda
+-------------------
+
+- `Python Course <https://www.codecademy.com/learn/python>`_ by Codecademy
+- `Learn Python the Hard way <http://learnpythonthehardway.org/>`_ - Free online course on Python
+- `Anaconda and Python <https://www.anaconda.com/>`_
+- `Scientific Python Lectures <https://github.com/jrjohansson/scientific-python-lectures>`_
+- `Astro ML <http://www.astroml.org/>`_ - Machine Learning and Data Mining for Astronomy
+
+----------------------------------
+Interesting Python Packages
+----------------------------------
+
+- `Halotools <https://halotools.readthedocs.io>`_
+- `Astropy <http://www.astropy.org/>`_
+- `Pandas <https://pandas.pydata.org/>`_ and `Tutorial <https://www.tutorialspoint.com/python_pandas/>`_
+- `Scikit-Learn <http://scikit-learn.org/>`_
+
+-------------------
+Code Editors
+-------------------
+
+- `Sublime Text 3 <https://www.sublimetext.com/>`_
+- `PyCharm <https://www.jetbrains.com/pycharm/>`_
+- `VIM for Beginners <https://computers.tutsplus.com/tutorials/vim-for-beginners--cms-21118>`_
+
+-------------------
+Code Structure
+-------------------
+
+- `How to structure your code property <https://drivendata.github.io/cookiecutter-data-science/>`_
+
+-----------------
 Version Control
 -----------------
 
 - `Github <https://github.com/>`_
 - `Github Guides and Tutorials <https://guides.github.com/>`_
 - `Git tutorials and training <https://www.atlassian.com/git/tutorials/>`_ by Atlassian
+- `Bitbucket <https://bitbucket.org/>`_
 
 -----------------
-Coding
+SSH-KEYS
 -----------------
 
-- `Python Course <https://www.codecademy.com/learn/python>`_ by Codecademy
-- `Learn Python the Hard way <http://learnpythonthehardway.org/>`_ - Free online course on Python
-- `Astro ML <http://www.astroml.org/>`_ - Machine Learning and Data Mining for Astronomy
+- `How to Set up SSH Keys <https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2>`_
+- `Connecting to Github with SSH <https://help.github.com/articles/connecting-to-github-with-ssh/>`_
 
 -----------------
 LaTeX
 -----------------
 
+- `Installing LaTeX <http://www.astrobetter.com/blog/2010/07/06/install-latex/>`_
 - `Learn LaTeX in 30 minutes <https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes>`_
+
+-----------------------
+Online Presentations
+-----------------------
+
+- `Frank van den Bosch Lectures <http://campuspress.yale.edu/vdbosch/presentations/>`_ or `here <http://www.astro.yale.edu/vdbosch/Presentations.html>`_
+- `Frank van den Bosch - Video Lectures <http://campuspress.yale.edu/vdbosch/teaching/video-lectures/>`_
+- `Galaxy Formation Conferences - Lectures and Videos <http://astro.dur.ac.uk/Gal2011/talks.php>`_
+- 
 
 -----------------
 Machine Learning
 -----------------
 
+- `Vanderbilt Astro Machine Learning group <https://vandyastroml.github.io/>`_
+- `AstroML <http://www.astroml.org/>`_
+- `AstroML Book <https://press.princeton.edu/titles/10159.html>`_ or on `Amazon <https://www.amazon.com/Statistics-Mining-Machine-Learning-Astronomy/dp/0691151687>`_
 - `Machine Learning Course <https://www.coursera.org/learn/machine-learning/>`_ by Andrew Ng (Stanford)
 - `Caltech-JPL Summer School on Big Data Analytics <https://www.coursera.org/course/bigdataschool>`_ course
 - `Victor Lavrenko's playlist <https://www.youtube.com/user/victorlavrenko/playlists>`_ on machine learning tutorials
@@ -72,3 +161,24 @@ Papers
 - `Good Enough Practices in Scientific Computing <http://arxiv.org/abs/1609.00037>`_ by by Greg Wilson et al. (2016)
 - `"Ten Simple Rules for Making Research Software More Robust" <https://arxiv.org/abs/1610.04546>`_ by Morgan Taschuk et al. (2017)
 - `Interactive Notebooks: Sharing the Code <http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261>`_ by Helen Shen
+
+---------------------
+Interesting Books
+---------------------
+
+- `The Cosmic Web <https://www.amazon.com/Cosmic-Web-Mysterious-Architecture-Universe/dp/069115726X>`_ by Gott
+- `Statistics Books by astronomers and physicists <http://astrostatistics.psu.edu/castbib/Bib_physbks.html>`_
+- `Practical Statistics for Astronomers <https://www.amazon.com/Practical-Statistics-Astronomers-Cambridge-Observing/dp/0521732492>`_
+- `Galaxy Formation and Evolution <http://www.cambridge.org/us/academic/subjects/physics/astrophysics/galaxy-formation-and-evolution-1?format=HB>`_ by Mo, van den Bosch, and White
+- `Extragalactic Astronomy and Cosmology <https://www.amazon.com/Extragalactic-Astronomy-Cosmology-Peter-Schneider/dp/3642069711>`_ by Peter Schneider
+- `Introduction to Cosmology <https://www.amazon.com/Introduction-Cosmology-Barbara-Ryden/dp/0805389121/ref=pd_sim_14_1?ie=UTF8&dpID=41E27ZCFRKL&dpSrc=sims&preST=_AC_UL160_SR130,160_&psc=1&refRID=Q3QMV7G3AF4RG508TDM6>`_ by Barbara Ryden or the `PDF version <http://atlas.physics.arizona.edu/~kjohns/downloads/lsst/Ryden_IntroCosmo.pdf>`_
+- `An Introduction to Modern Astrophysics <https://www.amazon.com/Introduction-Modern-Astrophysics-2nd/dp/0805304029>`_ by Bradley Carroll
+
+----------------------
+Jobs and Applications
+----------------------
+
+- `Astronomy - Rumor Mill <http://www.astrobetter.com/wiki/Rumor+Mill>`_
+- `The Grad Cafe <https://thegradcafe.com/>`_ - Grad School Admissions Results, Tips, Forums, etc.
+- `AAS Job Register <https://jobregister.aas.org/>`_ - Find and post astronomy related jobs
+- `Benti-Fields Job Market <https://www.benty-fields.com/job_market>`_
