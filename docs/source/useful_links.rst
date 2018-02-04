@@ -86,6 +86,7 @@ Python & Anaconda
 - `Anaconda and Python <https://www.anaconda.com/>`_
 - `Scientific Python Lectures <https://github.com/jrjohansson/scientific-python-lectures>`_
 - `Astro ML <http://www.astroml.org/>`_ - Machine Learning and Data Mining for Astronomy
+- `Cython Tutorial <https://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html>`_
 
 ----------------------------------
 Interesting Python Packages
