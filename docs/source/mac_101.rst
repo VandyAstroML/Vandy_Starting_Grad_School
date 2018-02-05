@@ -157,6 +157,111 @@ replacing :code:`key` with the name of the actual SSH-key.
 SSH Config file
 ^^^^^^^^^^^^^^^^^
 
+This file acts as the file with predefined options for how you connect
+to numerous SSH servers.
 
+After having created the :code:`config` file in the :code:`~/.ssh` directory,
+you must add the information to each of the servers that you connect to.
+
+First, you must execute
+
+.. code::
+
+    open ~/.ssh/config
+
+in order to open the :code:`~/.ssh/config` file.
+After having opened the file, you can add **global** settings for how 
+each SSH sessions executes.
+Add these lines to your :code:`config` file:
+
+.. code::
+
+    Host *
+    ControlMaster auto
+    ControlPath ~/.ssh/connections/%C
+    ControlPersist 1m
+    ServerAliveInterval 30
+    ServerAliveCountMax 10
+
+If you're on a **MAC** and would like to use X11 as well, add 
+**these extra lines** beneath :code:`ServerAliveCountMax`:
+
+.. code::
+
+    XAuthLocation /opt/X11/bin/xauth
+    AddKeysToAgent yes
+    UseKeychain yes
+
+This will ensure that your connections don't die, forward X11, and 
+save those keys to your **Keychain** (if applicable).
+
+""""""""""""""""""""""""""
+Connecting to Github
+""""""""""""""""""""""""""
+
+Once you have your :code:`~/.ssh/config` file setup, you can add your 
+**Github** information to it.
+
+You would just need to add this below the code from above:
+
+.. code-block:: bash
+
+    Host github.com
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/ssh_keys/github_key
+    IdentitiesOnly yes
+    PreferredAuthentications publickey
+
+This will make **git** to use the public key :code:`github_key`, which 
+you should have created already. If not, follow these instructions
+`here <https://help.github.com/articles/connecting-to-github-with-ssh/>`_.
+
+""""""""""""""""""""""""""
+Forwarding X11 (MACs only)
+""""""""""""""""""""""""""
+
+If you happen to plot on remote servers, you might want to use XQuarts (X11)
+if you're on a Mac in order to plot. If so, you will need to add 
+the following line to the :code:`~/.ssh/config` file below the **Host** 
+information for the server.
+
+.. code::
+
+    ForwardX11 yes
+
+And make sure that the :code:`XAuthLocation` setting is pointing to the 
+correct path of :code:`xauth`. This will guarantee that you don't a problem 
+with rerouting your plots to X11. For more information, see 
+`XQuartz <https://www.xquartz.org/>`_.
+
+
+Your :code:`~/.ssh/config` file should look something like this now:
+
+.. code::
+
+    Host *
+    ControlMaster auto
+    ControlPath ~/.ssh/connections/%C
+    ControlPersist 1m
+    ServerAliveInterval 30
+    ServerAliveCountMax 10
+    XAuthLocation /opt/X11/bin/xauth
+    AddKeysToAgent yes
+    UseKeychain yes
+
+    ## Connects to a 
+    Host server_name
+    HostName path.to.server
+    User username
+    IdentityFile ~/.ssh/ssh_keys/server_key
+    IdentitiesOnly yes
+    PreferredAuthentications publickey
+    ForwardX11 yes
+
+where :code:`server` is the name of the *server* to which you want to 
+connect, and :code:`path.to.server` is the URL to the server. This will 
+use the :code:`~/.ssh/ssh_keys/server_key` SSH key to access the server
+with your credentials for username :code:`username`.
 
 
