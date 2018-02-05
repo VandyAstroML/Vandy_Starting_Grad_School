@@ -19,7 +19,7 @@ General
 - `Vanderbilt Astronomy Group <http://as.vanderbilt.edu/astronomy/>`_
 - `Journal Club - Schedule <https://as.vanderbilt.edu/astronomy/category/journal-club/>`_
 - `AstroBrew Schedule <https://as.vanderbilt.edu/astronomy/category/astrobrew/>`_
-- `Vandy Astronomy - Workshops and Seminars <https://vandyastroml.github.io>`_ Main Website for the Astronomy Workshops and Seminars at Vanderbilt
+- `Vandy Astronomy - Workshops and Seminars <https://vandyastroml.github.io>`_ - Main Website for the Astronomy Workshops and Seminars at Vanderbilt
 
 .. _MAC_links:
 ----------------------------------
