@@ -161,7 +161,6 @@ Online Presentations
 - `Frank van den Bosch Lectures <http://campuspress.yale.edu/vdbosch/presentations/>`_ or `here <http://www.astro.yale.edu/vdbosch/Presentations.html>`_
 - `Frank van den Bosch - Video Lectures <http://campuspress.yale.edu/vdbosch/teaching/video-lectures/>`_
 - `Galaxy Formation Conferences - Lectures and Videos <http://astro.dur.ac.uk/Gal2011/talks.php>`_
-- 
 
 .. _Machine_Learning_links:
 -----------------
