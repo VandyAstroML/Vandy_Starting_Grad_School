@@ -37,7 +37,7 @@ can use to edit and run your scripts.
 
 After having downloaded and installed Xcode, there are a few commands that 
 need to be run in order to let other programs run, i.e. 
-**`Xcode Command-line Tools <https://railsapps.github.io/xcode-command-line-tools.html>`_**.
+`Xcode Command-line Tools <https://railsapps.github.io/xcode-command-line-tools.html>`_.
 
 You should run the following commands from the Terminal:
 
@@ -74,8 +74,8 @@ LaTeX
 Another important package that you need to install whenever you get a new 
 MAC is **LaTeX**.  LaTeX is a *document preparation system* that lets you 
 present your work or documents in a presentable format. LaTeX is 
-also used a lot by scientific journals, i.e. **Astrophysical Journal**, 
-**`Monthly Notices of the Royal Astronomical Society <https://academic.oup.com/mnras>`_**.
+also used a lot by scientific journals, i.e. `Astrophysical Journal <http://iopscience.iop.org/journal/0004-637X>`_, 
+`Monthly Notices of the Royal Astronomical Society <https://academic.oup.com/mnras>`_.
 
 To download LaTeX on a MAC, you need to download **MacTEX**.
 This can be found at `https://www.tug.org/mactex/ <https://www.tug.org/mactex/>`_.
@@ -83,7 +83,7 @@ This can be found at `https://www.tug.org/mactex/ <https://www.tug.org/mactex/>`
 After downloading the necessary :code:`.pkg` file, you will be able to 
 execute and run LaTeX on your computer.
 
-For a tutorial on how to use LaTeX, go to the links in LaTeX_links_.
+For a tutorial on how to use LaTeX, go to the links in :ref:`LaTeX_links`.
 
 .. _VPN:
 ^^^^^^^^^^^^^^^^^^^^
@@ -202,7 +202,7 @@ Now you can access a remote computer by logging in from the terminal:
 The tedious thing about this is that it will prompt you for 
 your password anytime that you want to access the remote server.
 
-This can be solved by using **:code:`SSH keys`**.
+This can be solved by using :code:`SSH keys`.
 
 .. _SSH_Keys:
 ^^^^^^^^^^^^^

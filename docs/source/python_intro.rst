@@ -26,7 +26,7 @@ From their website:
     deliver actionable insights that drive businesses and industries forward.
 
 
-Having **Ananconda* installed on your computer is important, since it 
+Having **Anaconda** installed on your computer is important, since it 
 allows you to not worry about installing missing dependencies, 
 creates environments for you projects, etc.
 
@@ -71,7 +71,7 @@ terminal:
 .. note:: If you're using a separate machine, to which you `ssh`, you can 
     install *Anaconda* to a specified location other than your home directory.
     This is important if you are limited by *the number of files in your 
-    home directory**, e.g. a computer hosted by 
+    **home directory**, e.g. a computer hosted by 
     `ACCRE <http://www.accre.vanderbilt.edu/>`_.
 
 .. _Anaconda_Environments:
@@ -91,7 +91,7 @@ your own defined environment for your project, and you can
 
 All of the packages can be specified in an **environment.yml** file.
 An example for such file would look like 
-(taken from `<conda.io/docs/user-guide/tasks/manage-environments.html>`_):
+(taken from `Conda Manage Environments <conda.io/docs/user-guide/tasks/manage-environments.html>`_):
 
 .. code::
 
@@ -121,11 +121,12 @@ running the command on the terminal:
 
 >>> conda env create -f environment.yml
 
-For more information, see `<https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file>`_.
+For more information, see 
+`Creating an environment from an environment.yml file <https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file>`_.
 
 .. note:: 
     A helpful package to use is 
-    **`conda-env-auto <https://github.com/chdoig/conda-auto-env>`_** which allows 
+    `conda-env-auto <https://github.com/chdoig/conda-auto-env>`_ which allows 
     you to automatically create and *activate* the project environment once you 
     are in the directory. For more information on how to install it and 
     use it, see `<https://github.com/chdoig/conda-auto-env>`_.
@@ -150,10 +151,12 @@ Cookiecutter and Folder Structure
 
 I would suggest starting with the 
 `Cookiecutter Data Science <https://drivendata.github.io/cookiecutter-data-science/>`_ 
-project structure, a 
+project structure,
 
-    *A logical, reasonably standardized, but flexible project structure for 
-    doing and sharing data science work*
+::
+
+    **A logical, reasonably standardized, but flexible project structure for 
+    doing and sharing data science work**
 
 This folder structure allows everyone looking at your code to 
 understand it right away.
@@ -207,7 +210,7 @@ The structure of the project looks like:
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
 
 
-It includes *Makefiles*, documentation, dependencies files, etc., to 
+It includes a **Makefile**, documentation, dependencies files, etc., to 
 make it easy to structure your code. 
 
 To start a **new project**:
@@ -222,7 +225,7 @@ To start a **new project**:
     advice using it, since it allows for better structure and 
     reproducibility.
 
-    For **my version* of the cookiecutter Data Science **template**, you can 
+    For **my version** of the cookiecutter Data Science **template**, you can 
     clone `<https://github.com/vcalderon2009/cookiecutter-data-science/>`_ 
     and use that folder structure *instead*.
 
