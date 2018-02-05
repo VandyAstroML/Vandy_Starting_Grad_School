@@ -135,7 +135,7 @@ Now you can add your **SSH-Keys** by typing the following:
 
 .. note::
 
-    The argument :code:`-K` in `ssh-add` for adding the key to your 
+    The argument :code:`-K` in :code:`ssh-add` for adding the key to your 
     **Keychain** if you are on a MacOSX system. If not, just have the command 
     :code:`ssh-add ~/.ssh/ssh_keys/*` to add all of the SSH-KEYS that you 
     have created.
