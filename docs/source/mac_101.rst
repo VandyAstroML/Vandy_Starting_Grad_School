@@ -1,3 +1,5 @@
+
+.. _MAC101:
 ==========================
 MAC 101: An Introduction
 ==========================
@@ -11,6 +13,113 @@ to SSH onto a remote computer, and more.
 .. contents:: Table of Contents
     :local:
 
+--------------------------
+What your MAC should have
+--------------------------
+
+Your MAC already comes with pre-installed packages, but some of the 
+packages that you may need are not *entirely* ready to be used.
+The first packages that you may need to install are the following:
+
+.. _Xcode:
+^^^^^^^^^^^^^^^^^^^^
+Xcode
+^^^^^^^^^^^^^^^^^^^^
+
+`Xcode <https://developer.apple.com/xcode/>`_ is an editor that you 
+can use to edit and run your scripts.
+
+.. note::
+
+    In my opinion, `Sublime Text <https://www.sublimetext.com/>`_ is a 
+    much better editor than Xcode is, because it has a lot more 
+    integrations and feautures than Xcode does.
+
+After having downloaded and installed Xcode, there are a few commands that 
+need to be run in order to let other programs run, i.e. 
+**`Xcode Command-line Tools <https://railsapps.github.io/xcode-command-line-tools.html>`_**.
+
+You should run the following commands from the Terminal:
+
+.. code-block::
+
+    xcode-select --install
+
+and verify that you've installed Xcode Command Line Tools successfully:
+
+.. code-block::
+
+    $ xcode-select -p
+    /Applications/Xcode.app/Contents/Developer
+
+Just to be certain, verify that **gcc** is installed:
+
+.. code::
+
+    $ gcc --version
+    gcc-7 (Homebrew GCC 7.2.0) 7.2.0
+    Copyright (C) 2017 Free Software Foundation, Inc.
+    This is free software; see the source for copying conditions.  There is NO
+    warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+For more information, read `this <https://railsapps.github.io/xcode-command-line-tools.html>`_
+to know more about **Xcode Command Line Tools**.
+
+
+.. _LaTeX:
+^^^^^^^^^^^^^^^^^^^^
+LaTeX
+^^^^^^^^^^^^^^^^^^^^
+
+Another important package that you need to install whenever you get a new 
+MAC is **LaTeX**.  LaTeX is a *document preparation system* that lets you 
+present your work or documents in a presentable format. LaTeX is 
+also used a lot by scientific journals, i.e. **Astrophysical Journal**, 
+**`Monthly Notices of the Royal Astronomical Society <https://academic.oup.com/mnras>`_**.
+
+To download LaTeX on a MAC, you need to download **MacTEX**.
+This can be found at `https://www.tug.org/mactex/ <https://www.tug.org/mactex/>`_.
+
+After downloading the necessary :code:`.pkg` file, you will be able to 
+execute and run LaTeX on your computer.
+
+For a tutorial on how to use LaTeX, go to the links in LaTeX_links_.
+
+.. _VPN:
+^^^^^^^^^^^^^^^^^^^^
+Vanderbilt VPN
+^^^^^^^^^^^^^^^^^^^^
+
+Sometimes you will need to access remote servers from outside Vanderbilt.
+To do this you will need to set up a **VPN** connections.
+In order to do this, you will need to install the 
+`Pulse Secure VPN <https://it.vanderbilt.edu/security/secure-communications/remote-access/>`_
+client. This will will let you connect remotely to servers hosted at Vanderbilt .
+
+
+.. _MAC_Time_Machine:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+MAC Time Machine & Backup
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+When you get a MAC, you have the option to set up 
+`Time Machine <https://support.apple.com/en-us/HT201250>`_. Time Machine 
+lets you back up your entire computer, so that you don't loose any 
+important file.
+
+I **strongly** suggest buying a hard drive (>1TB) to back up all of your 
+files. I find the hard drives from *Western Digital* quite useful.
+In case you're interested, see `here <https://www.wdc.com/products/personal-cloud-storage.html>`_.
+
+.. note::
+
+    It is **extremely** important that you back up your computer at least a few 
+    times a week. If not, you may end up loosing a substantial amount of 
+    files (and your work!) if your computer fails. So this should be one 
+    of the **first things** that you do when having a Mac.
+
+
+.. _SSH:
 -------------
 SSH
 -------------
@@ -95,7 +204,7 @@ your password anytime that you want to access the remote server.
 
 This can be solved by using **:code:`SSH keys`**.
 
-
+.. _SSH_Keys:
 ^^^^^^^^^^^^^
 SSH-Keys
 ^^^^^^^^^^^^^
@@ -153,6 +262,7 @@ replacing :code:`key` with the name of the actual SSH-key.
     them. (But they would have to know which server to connect to, which 
     "config" file will provide!)
 
+.. _SSH_Config:
 ^^^^^^^^^^^^^^^^^
 SSH Config file
 ^^^^^^^^^^^^^^^^^
@@ -217,6 +327,7 @@ This will make **git** to use the public key :code:`github_key`, which
 you should have created already. If not, follow these instructions
 `here <https://help.github.com/articles/connecting-to-github-with-ssh/>`_.
 
+.. _SSH_X11:
 """"""""""""""""""""""""""
 Forwarding X11 (MACs only)
 """"""""""""""""""""""""""
