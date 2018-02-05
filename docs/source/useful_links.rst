@@ -110,6 +110,8 @@ Code Structure
 -------------------
 
 - `How to structure your code property <https://drivendata.github.io/cookiecutter-data-science/>`_
+- `Markdown CheatSheet <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>`_
+- `Restructured Text (reST) CheatSheet <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_
 
 -----------------
 Version Control
