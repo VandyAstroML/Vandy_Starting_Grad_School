@@ -153,8 +153,6 @@ I would suggest starting with the
 `Cookiecutter Data Science <https://drivendata.github.io/cookiecutter-data-science/>`_ 
 project structure,
 
-::
-
     **A logical, reasonably standardized, but flexible project structure for 
     doing and sharing data science work**
 
