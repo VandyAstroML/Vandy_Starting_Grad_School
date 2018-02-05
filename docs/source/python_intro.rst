@@ -217,9 +217,9 @@ To start a **new project**:
     advice using it, since it allows for better structure and 
     reproducibility.
 
-    For *my version* of the cookiecutter Data Science *template*, you can 
+    For **my version* of the cookiecutter Data Science **template**, you can 
     clone `<https://github.com/vcalderon2009/cookiecutter-data-science/>`_ 
-    and use that folder structure instead.
+    and use that folder structure *instead*.
 
 Once you have cloned and answered the questions by *cookiecutter*, 
 you will have a directory with a folder structure that allows for 
