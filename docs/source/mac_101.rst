@@ -250,6 +250,14 @@ Your :code:`~/.ssh/config` file should look something like this now:
     AddKeysToAgent yes
     UseKeychain yes
 
+    ## Connects to Github
+    Host github.com
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/ssh_keys/github_key
+    IdentitiesOnly yes
+    PreferredAuthentications publickey
+
     ## Connects to a remote Server via SSH
     Host server_name
     HostName path.to.server
