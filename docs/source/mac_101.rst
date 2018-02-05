@@ -104,7 +104,7 @@ Some servers are configured to accept encryption keys in addition
 to (or instead of) requiring a password. This can be more secure 
 since the account cannot be compromised by someone guessing passwords!
 
-SSH keys are comprised of a **public* and a *private* key. The public 
+SSH keys are comprised of a **public** and a **private** key. The public 
 key can be given to anyone (hence the name). If you connect to a server 
 that has your public key and you can provide your private key, it will 
 let you in. (Consequently, if your private key is **stolen**, 
