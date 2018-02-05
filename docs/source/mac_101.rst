@@ -22,7 +22,7 @@ computer via the terminal.
 
 In order to do that, you first need to do the following in the terminal
 
-* Create the new SSH folder
+* Create the new :code:`SSH folder`
 
 .. code::
 
@@ -30,7 +30,7 @@ In order to do that, you first need to do the following in the terminal
     $ mkdir .ssh
     $ chmod 700 .ssh
 
-* SSH Configuration file
+* :code:`SSH Configuration file`
 
 .. code::
 
@@ -38,7 +38,7 @@ In order to do that, you first need to do the following in the terminal
     $ touch config
     $ chmod 600 config
 
-* Authorized_keys file
+* :code:`Authorized_keys file`
 
 .. code::
 
@@ -46,7 +46,7 @@ In order to do that, you first need to do the following in the terminal
     $ touch authorized_keys
     $ chmod 700 authorized_keys
 
-* Connections Folder
+* :code:`Connections` Folder
 
 .. code::
 
@@ -54,7 +54,7 @@ In order to do that, you first need to do the following in the terminal
     mkdir connections
     chmod 700 connections
 
-* SSH-Keys Folder
+* :code:`SSH-Keys` Folder
 
 .. code::
 
@@ -62,7 +62,7 @@ In order to do that, you first need to do the following in the terminal
     mkdir ssh_keys
     chmod 700 ssh_keys
 
-* Public Keys Folder
+* :code:`Public Keys` Folder
 
 .. code::
 
@@ -97,7 +97,7 @@ This can be solved by using **SSH keys**.
 
 
 ^^^^^^^^^^^^^
-SSH-KEYS
+SSH-Keys
 ^^^^^^^^^^^^^
 
 Some servers are configured to accept encryption keys in addition 
@@ -140,7 +140,7 @@ Now you can add your **SSH-Keys** by typing the following:
     :code:`ssh-add ~/.ssh/ssh_keys/*` to add all of the SSH-KEYS that you 
     have created.
 
-From now on, you should add the keys and their respective *public*
+From now on, you should add the **private** keys and their respective **public**
 keys to the :code:`ssh_keys` and :code:`pub_keys` folders, and then run the 
 commands :code:`chmod 600 key` and :code:`chmod 600 key.pub` command, 
 replacing :code:`key` with the name of the actual SSH-key.
@@ -250,7 +250,7 @@ Your :code:`~/.ssh/config` file should look something like this now:
     AddKeysToAgent yes
     UseKeychain yes
 
-    ## Connects to a 
+    ## Connects to a remote Server via SSH
     Host server_name
     HostName path.to.server
     User username
