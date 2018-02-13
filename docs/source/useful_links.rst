@@ -153,6 +153,14 @@ LaTeX
 - `Installing LaTeX <http://www.astrobetter.com/blog/2010/07/06/install-latex/>`_
 - `Learn LaTeX in 30 minutes <https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes>`_
 
+-----------------
+Writing Papers
+-----------------
+
+- `Overleaf <https://www.overleaf.com/>`_ - Collaborative Writing and Publishing
+- `ShareLatex <https://www.sharelatex.com/>`_ - Another tool for Collaborative Writing and Publishing
+- `Acknowledgment Generator <https://astrofrog.github.io/acknowledgment-generator/>`_ - Easy way to write the __Acknowledgement section of a paper
+
 .. _Online_Presentations_links:
 -----------------------
 Online Presentations
