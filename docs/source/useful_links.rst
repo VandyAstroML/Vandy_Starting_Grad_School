@@ -44,6 +44,15 @@ Reading Papers
 - `Benty Fields <https://www.benty-fields.com/>`_ - Selected papers to use. It uses ML to suggest you new papers.
 - `AAS Nova <http://aasnova.org/>`_ - Research highlights from the journals of the American Astronomical Society
 
+.. _Giving_Presentations_links:
+-------------------------
+Giving Presentations
+-------------------------
+
+- `Speak your science: How to give a better conference talk, Part 1 <https://astrobites.org/2018/02/10/speak-your-science-part-1/>`_
+- `Speak your science: How to give a better conference talk, Part 2 <https://astrobites.org/2018/02/17/speak-your-science-part-2/>`_
+- `Giving a Scientific Talk <http://as.vanderbilt.edu/astronomy/manage/wp-content/uploads/2012/01/ajc_scientific_talk_pointers.pdf>`_
+
 .. _Paper_Management_links:
 -----------------
 Paper Management
