@@ -191,6 +191,7 @@ Machine Learning
 - `Victor Lavrenko's playlist <https://www.youtube.com/user/victorlavrenko/playlists>`_ on machine learning tutorials
 - `Introductory Applied Machine Learning <https://www.coursera.org/learn/python-machine-learning>`_
 - `Udacity's Deep Learning course <https://www.udacity.com/course/deep-learning--ud730>`_
+- `Intro to Random Forests <https://goo.gl/yYSAEi>`_ - Good introduction to the topic of Random Forests in machine learning
 
 .. _Papers_links:
 -----------------
