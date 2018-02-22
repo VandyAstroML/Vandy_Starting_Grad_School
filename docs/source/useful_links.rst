@@ -104,6 +104,7 @@ Python & Anaconda
 - `Learn Python the Hard way <http://learnpythonthehardway.org/>`_ - Free online course on Python
 - `Anaconda and Python <https://www.anaconda.com/>`_
 - `Scientific Python Lectures <https://github.com/jrjohansson/scientific-python-lectures>`_
+- `The Hitchhiker's Guide to Python <http://docs.python-guide.org/en/latest/>`_ - Useful guide to use when using Python. Both for novice and experty Python developers.
 - `Astro ML <http://www.astroml.org/>`_ - Machine Learning and Data Mining for Astronomy
 - `Cython Tutorial <https://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html>`_
 
