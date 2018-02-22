@@ -136,6 +136,7 @@ Code Structure
 - `How to structure your code property <https://drivendata.github.io/cookiecutter-data-science/>`_
 - `Markdown CheatSheet <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>`_
 - `Restructured Text (reST) CheatSheet <https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst>`_
+- `Create Documentation with RST, Sphinx, Sublime, and GitHub <https://sublime-and-sphinx-guide.readthedocs.io/en/latest/>`_
 
 .. _Version_Control_links:
 -----------------
