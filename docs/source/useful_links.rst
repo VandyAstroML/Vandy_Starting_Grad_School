@@ -117,6 +117,7 @@ Interesting Python Packages
 - `Astropy <http://www.astropy.org/>`_
 - `Pandas <https://pandas.pydata.org/>`_ and `Tutorial <https://www.tutorialspoint.com/python_pandas/>`_
 - `Scikit-Learn <http://scikit-learn.org/>`_
+- `Astropy - Affiliated Packages <http://www.astropy.org/affiliated/>`_
 
 .. _Code_Editors_links:
 -------------------
