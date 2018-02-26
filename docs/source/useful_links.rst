@@ -94,6 +94,7 @@ General Learning
 - `World Science U <http://www.worldscienceu.com/>`_
 - `World Science Festival <https://www.worldsciencefestival.com/>`_
 - `TED Talks <https://www.ted.com/>`_
+- `DataGeekette - Walkthrough for Aspiring Data Scientists <https://datageekette.com/>`_
 
 .. _Python_Anaconda_links:
 -------------------
