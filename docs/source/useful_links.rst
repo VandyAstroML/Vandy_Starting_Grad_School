@@ -108,6 +108,7 @@ Python & Anaconda
 - `The Hitchhiker's Guide to Python <http://docs.python-guide.org/en/latest/>`_ - Useful guide to use when using Python. Both for novice and experty Python developers.
 - `Astro ML <http://www.astroml.org/>`_ - Machine Learning and Data Mining for Astronomy
 - `Cython Tutorial <https://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html>`_
+- `iPython in Depth Tutorial <https://github.com/ipython/ipython-in-depth>`_
 
 .. _Interesting_Python_Packages_links:
 ----------------------------------
