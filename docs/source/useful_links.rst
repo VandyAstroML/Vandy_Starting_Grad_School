@@ -109,6 +109,7 @@ Python & Anaconda
 - `Astro ML <http://www.astroml.org/>`_ - Machine Learning and Data Mining for Astronomy
 - `Cython Tutorial <https://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html>`_
 - `iPython in Depth Tutorial <https://github.com/ipython/ipython-in-depth>`_
+- `Python for Scientists Tutorial <https://astrofrog.github.io/py4sci>`_ - Set of lecture notes by `Thomas Robitaille <http://www.thomasrobitaille.com/>`_
 
 .. _Interesting_Python_Packages_links:
 ----------------------------------
