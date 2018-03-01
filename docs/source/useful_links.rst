@@ -198,6 +198,7 @@ Machine Learning
 - `Introductory Applied Machine Learning <https://www.coursera.org/learn/python-machine-learning>`_
 - `Udacity's Deep Learning course <https://www.udacity.com/course/deep-learning--ud730>`_
 - `Intro to Random Forests <https://goo.gl/yYSAEi>`_ - Good introduction to the topic of Random Forests in machine learning
+- `Data Science Learning Resources <https://www.datasciencecentral.com/profiles/blogs/data-science-learning-resources>`_ - Curated list of resources to learn *machine learning*
 
 .. _Papers_links:
 -----------------
