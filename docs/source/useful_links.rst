@@ -199,6 +199,7 @@ Machine Learning
 - `Udacity's Deep Learning course <https://www.udacity.com/course/deep-learning--ud730>`_
 - `Intro to Random Forests <https://goo.gl/yYSAEi>`_ - Good introduction to the topic of Random Forests in machine learning
 - `Data Science Learning Resources <https://www.datasciencecentral.com/profiles/blogs/data-science-learning-resources>`_ - Curated list of resources to learn *machine learning*
+- `Essentials of Machine Learning Algorithms (with Python and R Codes) <https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/>`_ - Nice explanation of ML concepts and algorithms
 
 .. _Papers_links:
 -----------------
