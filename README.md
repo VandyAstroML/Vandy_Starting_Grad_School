@@ -8,3 +8,5 @@ are useful to know when starting graduate School.
 
 The documention for this repository can be
 found here: 
+
+[https://vanderbilt-astro-starting-grad-school.readthedocs.io][https://vanderbilt-astro-starting-grad-school.readthedocs.io]
