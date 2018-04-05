@@ -7,6 +7,7 @@ The idea of machine learning (ML) is not new, but ML has become a tool
 that many astronomers are using at their analysis.
 
 It has been used to:
+
 - Predict the *photometric redshifts* of distant galaxies
 - Determine HI richness of galaxies
 - Classify galaxy morphologies, i.e. *ellipticals*, *disky*, *barred*, etc.
@@ -16,7 +17,8 @@ Machine learning has definitely started to change the field of astronomy
 and astrophysics. This is the reason for why it is important to 
 properly understand how to get the best results for a ML project.
 
-Next is a list of popular algorithms to use for ML projects...
+.. contents:: Table of Contents
+    :local:
 
 .. _ML_algorithms:
 --------------------------
