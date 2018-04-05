@@ -40,7 +40,7 @@ Supervised Machine Learning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Supervised** machine learning refers to the *prediction* of 
-labels (`classification`) or values (`regression`) based on a 
+labels (:code:`classification`) or values (:code:`regression`) based on a 
 *previous* knowledge of the data, i.e. the user know the *truth* of 
 each observation, and tries to make an educated guess of for 
 unobserved data based on a **training** process with data.
