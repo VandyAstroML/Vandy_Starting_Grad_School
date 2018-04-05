@@ -6,6 +6,7 @@ Machine Learning
 .. contents:: Table of Contents
     :local:
 
+.. _ML_general:
 --------------------------
 Why machine learning?
 --------------------------
