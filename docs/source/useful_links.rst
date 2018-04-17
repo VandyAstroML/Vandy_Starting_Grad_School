@@ -200,6 +200,7 @@ Machine Learning
 - `Intro to Random Forests <https://goo.gl/yYSAEi>`_ - Good introduction to the topic of Random Forests in machine learning
 - `Data Science Learning Resources <https://www.datasciencecentral.com/profiles/blogs/data-science-learning-resources>`_ - Curated list of resources to learn *machine learning*
 - `Essentials of Machine Learning Algorithms (with Python and R Codes) <https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/>`_ - Nice explanation of ML concepts and algorithms
+- `TensorFlow tutorial <https://github.com/dfm/tf-tutorial>`_ - Non-traditional TensorFlow tutorial by `Daniel Foreman-Mackey <https://github.com/dfm>`_
 
 .. _Papers_links:
 -----------------
