@@ -16,6 +16,9 @@ about some of the **very useful** tools that you can use in order to
 - Keep your documentation up to date (ReadTheDocs)
 - and more.
 
+.. contents:: Table of Contents
+    :local:
+
 .. _Initial_Setup:
 ---------------------------------
 Initial Setup
