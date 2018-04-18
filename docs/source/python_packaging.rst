@@ -37,3 +37,20 @@ As you can tell, there's a file named :code:`__index__.py`. This file tells
 Python to treat this directory as a *module/package*. Without 
 this file, Python will not understand that your building a package, and 
 will not link the files properly.
+
+
+
+
+
+
+.. _Resources:
+------------------------------------
+Resources and further reading
+------------------------------------
+
+This is a small list for further reading
+
+- `The Hitchhiker’s Guide to Packaging <https://the-hitchhikers-guide-to-packaging.readthedocs.io>`_
+- `Python Packaging User Guide <https://packaging.python.org/>`_
+- `Astropy Package Template <http://docs.astropy.org/projects/package-template>`_
+
