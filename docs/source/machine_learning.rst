@@ -50,3 +50,28 @@ unobserved data based on a **training** process with data.
 Unsupervised Machine Learning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+
+
+.. _Papers_ml:
+----------------------------
+Papers that have used ML
+----------------------------
+
+This is a list of a few papers that have used machine learning and 
+deep learning to study astrophysical phenomena.
+
+.. _papers_ml_lss:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Cosmology and Galactic astronomy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. _papers_ml_stellar:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Stellar Astrophysics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _papers_ml_obs:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Observational Astronomy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
