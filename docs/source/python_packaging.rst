@@ -3,6 +3,14 @@
 Python Packaging - Building your own module
 ================================================
 
+.. contents:: Table of Contents
+    :local:
+
+.. _Packaging_Intro:
+-----------------------
+Introduction
+-----------------------
+
 Each project requires its own different functions, definitions, etc.
 But most of the times, you will be recycling over old code over and over,
 and you will have many duplicates of the same code laying around.
@@ -15,9 +23,6 @@ about some of the **very useful** tools that you can use in order to
 - Test your module for errors (Travis CI)
 - Keep your documentation up to date (ReadTheDocs)
 - and more.
-
-.. contents:: Table of Contents
-    :local:
 
 .. _Initial_Setup:
 ---------------------------------
