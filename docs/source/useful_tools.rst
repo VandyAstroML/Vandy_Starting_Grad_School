@@ -55,7 +55,7 @@ htop has different things to offer. Figures :numref:`htop_top_fig` and
 
    Top of *htop*. This figure shows the different components in the 
    upper part of *htop*.
-   Credit: `CodeAhoy<https://codeahoy.com>`_
+   Credit: `CodeAhoy <https://codeahoy.com>`_
 
 And the bottom part ...
 
@@ -64,7 +64,7 @@ And the bottom part ...
 
    Top of *htop*. This figure shows the different components in the 
    bottom part of *htop*.
-   Credit: `CodeAhoy<https://codeahoy.com>`_
+   Credit: `CodeAhoy <https://codeahoy.com>`_
 
 
 .. _htop_resources:
