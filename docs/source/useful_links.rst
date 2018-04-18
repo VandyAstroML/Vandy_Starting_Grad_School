@@ -129,6 +129,7 @@ Code Editors
 -------------------
 
 - `Sublime Text 3 <https://www.sublimetext.com/>`_
+- `Sublime Text Unofficial Documentation <http://docs.sublimetext.info/>`_
 - `PyCharm <https://www.jetbrains.com/pycharm/>`_
 - `Atom Editor <https://atom.io/>`_ - Similar to Sublime Text.
 - `VIM for Beginners <https://computers.tutsplus.com/tutorials/vim-for-beginners--cms-21118>`_
