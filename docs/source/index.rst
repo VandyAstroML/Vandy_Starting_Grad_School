@@ -18,6 +18,7 @@ In case you have any questions, please contact me via
 
    mac_101
    python_intro
+   python_packaging
    machine_learning
    useful_links
 
