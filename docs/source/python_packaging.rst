@@ -16,3 +16,24 @@ about some of the **very useful** tools that you can use in order to
 - Keep your documentation up to date (ReadTheDocs)
 - and more.
 
+.. _Initial_Setup:
+---------------------------------
+Initial Setup
+---------------------------------
+
+In order to construct your package, you first need to setup your package 
+with the following folder structure:
+
+.. code::
+
+    your_package/
+        LICENSE.txt
+        README.txt
+        setup.py
+        package_name/
+            __init__.py
+
+As you can tell, there's a file named :code:`__index__.py`. This file tells 
+Python to treat this directory as a *module/package*. Without 
+this file, Python will not understand that your building a package, and 
+will not link the files properly.
