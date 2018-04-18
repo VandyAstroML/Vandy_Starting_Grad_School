@@ -26,10 +26,12 @@ memory is left, I like to use `htop <https://hisham.hm/htop/>`_.
 
 This application, as shown in 
 
+.. _label: htop_fig
 .. figure:: ./images/useful_tools/htop.png
     :alt: htop running in the terminal
 
-    htop running in the terminal
+    htop running in the terminal.
+    Credit: `Wikipedia <https://en.wikipedia.org/wiki/Htop#/media/File:Htop.png>`_
 
 
 
