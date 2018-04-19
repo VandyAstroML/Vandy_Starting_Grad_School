@@ -103,34 +103,32 @@ The :code:`screen` program allows you to multiple virtual windows in **Unix**.
 
 Some of the features of :code:`screen` are (from `this page <https://kb.iu.edu/d/acuy>`_ ):
 
-
-* If your local computer crashes or you lose the connection, the processes\
-or login sessions you establish through screen don't go away.\
-You can resume your screen sessions with the following command: :code:`screen -r`\
-In some cases you may have to manually "detach" your screen session\
-before resuming it. For more information, see the Knowledge Base document\
-Using screen, why can't I re-attach to my session after a lost connection?
-* Testing
-* 
-
-.. If your local computer crashes or you lose the connection, the processes or login sessions you establish through screen don't go away. You can resume your screen sessions with the following command:
-..  screen -r
-.. In some cases you may have to manually "detach" your screen session before resuming it. For more information, see the Knowledge Base document Using screen, why can't I re-attach to my session after a lost connection?
-.. The screen program creates multiple processes instead of multiple Unix login sessions, which means that it is resource-efficient.
-.. You can cut and paste between different screens without using a mouse. Thus, you don't need to be on a computer with a windowing environment such as macOS, Windows, or the X Window System.
-.. It has a block copy feature which is similar to the kill rectangle feature of Emacs.
-.. You can copy and paste more than one page at a time, which you cannot do with some clients. You can scroll up more than one page, depending on how many scrolling lines you have set with the -h option.
-.. Using the detach feature, you can save screen processes when logging out and resume where you left off, saving the trouble of restarting them.
+* If your local computer crashes or you lose the connection, the processes or login sessions you establish through screen don't go away
+    - You can resume your screen session with the command: :code:`screen -r`
+    - In some cases you may have to manually *detach* your screen session before resuming it.
+* The :code:`screen` program creates multiple processes instead of multiple Unix login sessions, which means that it is resource-efficient.
+* You can cut and paste between different screens without using a mouse. Thus, you don't need to be on a computer with a windowing environment such as macOS, Windows, or the X Window System.
+* It has a block copy feature which is similar to the kill rectangle feature of Emacs.
+* You can copy and paste more than one page at a time, which you cannot do with some clients. You can scroll up more than one page, depending on how many scrolling lines you have set with the :code:`-h` option.
+* Using the detach feature, you can save screen processes when logging out and resume where you left off, saving the trouble of restarting them.
 
 
-
-
-
-
-
-With :code:`screen` and :code:`tmux`, 
-this is a thing of the past. Now you can have your script running on 
-an **SSH** session, or on **ACCRE** without having to *stop* your script.
+=====================+===============================================================+
+Command              | Purpose                                                       |
+=====================+===============================================================+
+:code:`Ctrl-a c`     | Create new window (shell)                                     |
+:code:`Ctrl-a k`     | Kill the current window                                       |
+:code:`Ctrl-a w`     | List all windows (the current window is marked with "`*`")    |
+:code:`Ctrl-a 0-9`   | Go to a window numbered 0-9                                   |
+:code:`Ctrl-a n`     | Go to the next window                                         |
+:code:`Ctrl-a Ctrl-a`| Toggle between the current and previous window                |
+:code:`Ctrl-a [`     | Start copy mode                                               |
+:code:`Ctrl-a ]`     | Paste copied text                                             |
+:code:`Ctrl-a ?`     | Help (display a list of commands)                             |
+:code:`Ctrl-a Ctrl-\`| Quit screen                                                   |
+:code:`Ctrl-a D`     | Power detach and logout                                       |
+:code:`Ctrl-a d`     | Detach but keep shell window open                             |
+=====================+===============================================================+
 
 For some useful tutorials, see:
 
