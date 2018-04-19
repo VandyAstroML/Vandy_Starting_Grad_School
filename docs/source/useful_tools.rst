@@ -53,7 +53,7 @@ htop has different things to offer. Figures :numref:`Fig-1.2` and
 .. _Fig-1.2:
 .. figure:: ./images/useful_tools/htop_top.png
 
-   Top of *htop*. This figure shows the different components in the 
+   Figure 1.2: Top of *htop*. This figure shows the different components in the 
    upper part of *htop*.
    Credit: `CodeAhoy <https://codeahoy.com>`_
 
@@ -62,7 +62,7 @@ And the bottom part ...
 .. _Fig-1.3:
 .. figure:: ./images/useful_tools/htop_bottom.png
 
-   Top of *htop*. This figure shows the different components in the 
+   Figure 1.3: Top of *htop*. This figure shows the different components in the 
    bottom part of *htop*.
    Credit: `CodeAhoy <https://codeahoy.com>`_
 
