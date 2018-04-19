@@ -26,9 +26,9 @@ memory is left, I like to use `htop <https://hisham.hm/htop/>`_.
 
 This application, as shown in 
 
-.. _label: htop_fig
 .. figure:: ./images/useful_tools/htop.png
     :alt: htop running in the terminal
+    :name: htop_fig
 
     htop running in the terminal.
     Credit: `Wikipedia <https://en.wikipedia.org/wiki/Htop#/media/File:Htop.png>`_
@@ -50,8 +50,8 @@ htop Explained
 htop has different things to offer. Figures :ref:`htop_top_fig` and 
 :ref:`htop_bottom_fig` explain what each column means.
 
-.. _htop_top_fig:
 .. figure:: ./images/useful_tools/htop_top.png
+    :name: htop_top_fig
 
    Top of *htop*. This figure shows the different components in the 
    upper part of *htop*.
@@ -59,8 +59,8 @@ htop has different things to offer. Figures :ref:`htop_top_fig` and
 
 And the bottom part ...
 
-.. _htop_bottom_fig:
 .. figure:: ./images/useful_tools/htop_bottom.png
+    :name: htop_bottom_fig
 
    Top of *htop*. This figure shows the different components in the 
    bottom part of *htop*.
@@ -84,7 +84,12 @@ see:
 tmux and screen - Terminal Multiplexers
 =============================================
 
-Another great tool is 
+Two other great tools that you should get familiar with are:
+
+* :code:`screen`
+* :code:`tmux`
+
+These two tools 
 
 
 
