@@ -26,16 +26,17 @@ memory is left, I like to use `htop <https://hisham.hm/htop/>`_.
 
 This application, as shown in 
 
+.. _Fig-1.1:
 .. figure:: ./images/useful_tools/htop.png
     :alt: htop running in the terminal
-    :name: htop_fig
+    :align: 'center'
 
-    htop running in the terminal.
+    Figure 1.1: htop running in the terminal.
     Credit: `Wikipedia <https://en.wikipedia.org/wiki/Htop#/media/File:Htop.png>`_
 
 This tools is extremely useful when running multiple jobs, since it lets 
 you see which *jobs* are running, for how long they've been running, and 
-more. Figure :ref:`htop_fig` how *htop* looks whenever you run this 
+more. Figure :numref:`Fig-1.1` how *htop* looks whenever you run this 
 from the terminal:
 
 .. code-block:: shell
@@ -47,11 +48,12 @@ from the terminal:
 htop Explained
 --------------
 
-htop has different things to offer. Figures :ref:`htop_top_fig` and 
-:ref:`htop_bottom_fig` explain what each column means.
+htop has different things to offer. Figures :ref:`Fig-1.2` and 
+:ref:`Fig-1.3` explain what each column means.
 
+.. _Fig-1.2:
 .. figure:: ./images/useful_tools/htop_top.png
-    :name: htop_top_fig
+    :align: 'center'
 
    Top of *htop*. This figure shows the different components in the 
    upper part of *htop*.
@@ -59,8 +61,9 @@ htop has different things to offer. Figures :ref:`htop_top_fig` and
 
 And the bottom part ...
 
+.. _Fig-1.3:
 .. figure:: ./images/useful_tools/htop_bottom.png
-    :name: htop_bottom_fig
+    :align: 'center'
 
    Top of *htop*. This figure shows the different components in the 
    bottom part of *htop*.
@@ -89,7 +92,7 @@ Two other great tools that you should get familiar with are:
 * :code:`screen`
 * :code:`tmux`
 
-These two tools 
+These two tools a
 
 
 
