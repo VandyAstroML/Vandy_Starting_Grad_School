@@ -35,7 +35,7 @@ This application, as shown in
 
 This tools is extremely useful when running multiple jobs, since it lets 
 you see which *jobs* are running, for how long they've been running, and 
-more. Figure :numref:`htop_fig` how *htop* looks whenever you run this 
+more. Figure :ref:`htop_fig` how *htop* looks whenever you run this 
 from the terminal:
 
 .. code-block:: shell
@@ -47,8 +47,8 @@ from the terminal:
 htop Explained
 --------------
 
-htop has different things to offer. Figures :numref:`htop_top_fig` and 
-:numref:`htop_bottom_fig` explain what each column means.
+htop has different things to offer. Figures :ref:`htop_top_fig` and 
+:ref:`htop_bottom_fig` explain what each column means.
 
 .. _htop_top_fig:
 .. figure:: ./images/useful_tools/htop_top.png
@@ -84,6 +84,7 @@ see:
 tmux and screen - Terminal Multiplexers
 =============================================
 
+Another great tool is 
 
 
 
