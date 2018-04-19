@@ -104,13 +104,13 @@ The :code:`screen` program allows you to multiple virtual windows in **Unix**.
 Some of the features of :code:`screen` are (from `this page <https://kb.iu.edu/d/acuy>`_ ):
 
 
-* If your local computer crashes or you lose the connection, the processes
-or login sessions you establish through screen don't go away.
-You can resume your screen sessions with the following command: :code:`screen -r`
-In some cases you may have to manually "detach" your screen session
-before resuming it. For more information, see the Knowledge Base document
+* If your local computer crashes or you lose the connection, the processes\
+or login sessions you establish through screen don't go away.\
+You can resume your screen sessions with the following command: :code:`screen -r`\
+In some cases you may have to manually "detach" your screen session\
+before resuming it. For more information, see the Knowledge Base document\
 Using screen, why can't I re-attach to my session after a lost connection?
-* 
+* Testing
 * 
 
 .. If your local computer crashes or you lose the connection, the processes or login sessions you establish through screen don't go away. You can resume your screen sessions with the following command:
