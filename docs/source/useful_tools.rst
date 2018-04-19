@@ -29,7 +29,6 @@ This application, as shown in
 .. _Fig-1.1:
 .. figure:: ./images/useful_tools/htop.png
     :alt: htop running in the terminal
-    :align: 'center'
 
     Figure 1.1: htop running in the terminal.
     Credit: `Wikipedia <https://en.wikipedia.org/wiki/Htop#/media/File:Htop.png>`_
@@ -53,7 +52,6 @@ htop has different things to offer. Figures :ref:`Fig-1.2` and
 
 .. _Fig-1.2:
 .. figure:: ./images/useful_tools/htop_top.png
-    :align: 'center'
 
    Top of *htop*. This figure shows the different components in the 
    upper part of *htop*.
@@ -63,7 +61,6 @@ And the bottom part ...
 
 .. _Fig-1.3:
 .. figure:: ./images/useful_tools/htop_bottom.png
-    :align: 'center'
 
    Top of *htop*. This figure shows the different components in the 
    bottom part of *htop*.
