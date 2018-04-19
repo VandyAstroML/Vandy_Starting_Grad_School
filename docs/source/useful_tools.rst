@@ -113,7 +113,7 @@ Some of the features of :code:`screen` are (from `this page <https://kb.iu.edu/d
 * Using the detach feature, you can save screen processes when logging out and resume where you left off, saving the trouble of restarting them.
 
 
-+=====================+===============================================================+
++---------------------+---------------------------------------------------------------+
 |Command              | Purpose                                                       |
 +=====================+===============================================================+
 |:code:`Ctrl-a c`     | Create new window (shell)                                     |
@@ -128,7 +128,7 @@ Some of the features of :code:`screen` are (from `this page <https://kb.iu.edu/d
 |:code:`Ctrl-a Ctrl-\`| Quit screen                                                   |
 |:code:`Ctrl-a D`     | Power detach and logout                                       |
 |:code:`Ctrl-a d`     | Detach but keep shell window open                             |
-+=====================+===============================================================+
++---------------------+---------------------------------------------------------------+
 
 For some useful tutorials, see:
 
