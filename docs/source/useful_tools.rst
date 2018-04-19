@@ -33,7 +33,7 @@ This application, as shown in
     Figure 1.1: htop running in the terminal.
     Credit: `Wikipedia <https://en.wikipedia.org/wiki/Htop#/media/File:Htop.png>`_
 
-This tools is extremely useful when running multiple jobs, since it lets 
+This tool is extremely useful when running multiple jobs, since it lets 
 you see which *jobs* are running, for how long they've been running, and 
 more. Figure :numref:`Fig-1.1` how *htop* looks whenever you run this 
 from the terminal:
