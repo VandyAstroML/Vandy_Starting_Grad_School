@@ -50,7 +50,7 @@ htop Explained
 htop has different things to offer. Figures :numref:`htop_top_fig` and 
 :numref:`htop_bottom_fig` explain what each column means.
 
-.. _label: htop_top_fig
+.. _htop_top_fig:
 .. figure:: ./images/useful_tools/htop_top.png
 
    Top of *htop*. This figure shows the different components in the 
@@ -59,7 +59,7 @@ htop has different things to offer. Figures :numref:`htop_top_fig` and
 
 And the bottom part ...
 
-.. _label: htop_bottom_fig
+.. _htop_bottom_fig:
 .. figure:: ./images/useful_tools/htop_bottom.png
 
    Top of *htop*. This figure shows the different components in the 
