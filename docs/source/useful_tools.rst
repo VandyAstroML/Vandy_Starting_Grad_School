@@ -152,7 +152,18 @@ Tmux
   
 For further reading and tutorials, see these:
 
-* `A Gentle introduction to tmux <https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340>`_ 
+* `A Gentle introduction to tmux <https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340>`_
+  
+.. _crontab_sec:
+==============
+Crontab
+==============
+
+
+.. _whole_tale_sec:
+==============
+Whole Tale
+==============
 
 
 
