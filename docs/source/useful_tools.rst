@@ -113,22 +113,22 @@ Some of the features of :code:`screen` are (from `this page <https://kb.iu.edu/d
 * Using the detach feature, you can save screen processes when logging out and resume where you left off, saving the trouble of restarting them.
 
 
-=====================+===============================================================+
-Command              | Purpose                                                       |
-=====================+===============================================================+
-:code:`Ctrl-a c`     | Create new window (shell)                                     |
-:code:`Ctrl-a k`     | Kill the current window                                       |
-:code:`Ctrl-a w`     | List all windows (the current window is marked with "`*`")    |
-:code:`Ctrl-a 0-9`   | Go to a window numbered 0-9                                   |
-:code:`Ctrl-a n`     | Go to the next window                                         |
-:code:`Ctrl-a Ctrl-a`| Toggle between the current and previous window                |
-:code:`Ctrl-a [`     | Start copy mode                                               |
-:code:`Ctrl-a ]`     | Paste copied text                                             |
-:code:`Ctrl-a ?`     | Help (display a list of commands)                             |
-:code:`Ctrl-a Ctrl-\`| Quit screen                                                   |
-:code:`Ctrl-a D`     | Power detach and logout                                       |
-:code:`Ctrl-a d`     | Detach but keep shell window open                             |
-=====================+===============================================================+
++=====================+===============================================================+
+|Command              | Purpose                                                       |
++=====================+===============================================================+
+|:code:`Ctrl-a c`     | Create new window (shell)                                     |
+|:code:`Ctrl-a k`     | Kill the current window                                       |
+|:code:`Ctrl-a w`     | List all windows (the current window is marked with "`*`")    |
+|:code:`Ctrl-a 0-9`   | Go to a window numbered 0-9                                   |
+|:code:`Ctrl-a n`     | Go to the next window                                         |
+|:code:`Ctrl-a Ctrl-a`| Toggle between the current and previous window                |
+|:code:`Ctrl-a [`     | Start copy mode                                               |
+|:code:`Ctrl-a ]`     | Paste copied text                                             |
+|:code:`Ctrl-a ?`     | Help (display a list of commands)                             |
+|:code:`Ctrl-a Ctrl-\`| Quit screen                                                   |
+|:code:`Ctrl-a D`     | Power detach and logout                                       |
+|:code:`Ctrl-a d`     | Detach but keep shell window open                             |
++=====================+===============================================================+
 
 For some useful tutorials, see:
 
