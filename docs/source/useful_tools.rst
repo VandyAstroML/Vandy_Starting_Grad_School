@@ -132,7 +132,16 @@ Command              | Purpose                                                  
 
 For some useful tutorials, see:
 
+* `In Unix, what is screen, and how do I use it? <https://kb.iu.edu/d/acuy>`_ 
 * `Learn to use screen, a terminal multiplexer <https://dev.to/thiht/learn-to-use-screen-a-terminal-multiplexer-gl>`_ 
+
+.. _tmux_sec:
+--------
+Tmux
+--------
+  
+For further reading and tutorials, see these:
+
 * `A Gentle introduction to tmux <https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340>`_ 
 
 
