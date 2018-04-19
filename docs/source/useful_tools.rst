@@ -112,6 +112,7 @@ Some of the features of :code:`screen` are (from `this page <https://kb.iu.edu/d
 * You can copy and paste more than one page at a time, which you cannot do with some clients. You can scroll up more than one page, depending on how many scrolling lines you have set with the :code:`-h` option.
 * Using the detach feature, you can save screen processes when logging out and resume where you left off, saving the trouble of restarting them.
 
+A useful set of commands for using :code:`screen` are:
 
 +---------------------+---------------------------------------------------------------+
 |Command              | Purpose                                                       |
