@@ -86,10 +86,56 @@ tmux and screen - Terminal Multiplexers
 
 Two other great tools that you should get familiar with are:
 
-* :code:`screen`
-* :code:`tmux`
+* :code:`screen` - `GNU Screen <https://www.gnu.org/software/screen/>`_ 
+* :code:`tmux` - `Github Tmux <https://github.com/tmux/tmux>`_ 
 
-These two tools a
+These two tools are essential when working on the terminal for a long time.
+Assume you have a script that takes a long time to complete. If you dedice 
+to go for dinner, or leave school to go home, you would have to stop the script 
+since it wouldn't be running anymore. 
+
+.. _screen_sec:
+------------
+Screen
+------------
+
+The :code:`screen` program allows you to multiple virtual windows in **Unix**.
+
+Some of the features of :code:`screen` are (from `this page <https://kb.iu.edu/d/acuy>`_ ):
+
+
+* If your local computer crashes or you lose the connection, the processes \
+    or login sessions you establish through screen don't go away. \
+    You can resume your screen sessions with the following command: :code:`screen -r`\
+    In some cases you may have to manually "detach" your screen session \
+    before resuming it. For more information, see the Knowledge Base document \
+    Using screen, why can't I re-attach to my session after a lost connection?
+* 
+* 
+
+.. If your local computer crashes or you lose the connection, the processes or login sessions you establish through screen don't go away. You can resume your screen sessions with the following command:
+..  screen -r
+.. In some cases you may have to manually "detach" your screen session before resuming it. For more information, see the Knowledge Base document Using screen, why can't I re-attach to my session after a lost connection?
+.. The screen program creates multiple processes instead of multiple Unix login sessions, which means that it is resource-efficient.
+.. You can cut and paste between different screens without using a mouse. Thus, you don't need to be on a computer with a windowing environment such as macOS, Windows, or the X Window System.
+.. It has a block copy feature which is similar to the kill rectangle feature of Emacs.
+.. You can copy and paste more than one page at a time, which you cannot do with some clients. You can scroll up more than one page, depending on how many scrolling lines you have set with the -h option.
+.. Using the detach feature, you can save screen processes when logging out and resume where you left off, saving the trouble of restarting them.
+
+
+
+
+
+
+
+With :code:`screen` and :code:`tmux`, 
+this is a thing of the past. Now you can have your script running on 
+an **SSH** session, or on **ACCRE** without having to *stop* your script.
+
+For some useful tutorials, see:
+
+* `Learn to use screen, a terminal multiplexer <https://dev.to/thiht/learn-to-use-screen-a-terminal-multiplexer-gl>`_ 
+* `A Gentle introduction to tmux <https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340>`_ 
 
 
 
