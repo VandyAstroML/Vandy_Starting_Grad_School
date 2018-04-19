@@ -47,8 +47,8 @@ from the terminal:
 htop Explained
 --------------
 
-htop has different things to offer. Figures :ref:`Fig-1.2` and 
-:ref:`Fig-1.3` explain what each column means.
+htop has different things to offer. Figures :numref:`Fig-1.2` and 
+:numref:`Fig-1.3` explain what each column means.
 
 .. _Fig-1.2:
 .. figure:: ./images/useful_tools/htop_top.png
