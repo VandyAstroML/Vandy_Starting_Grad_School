@@ -43,6 +43,7 @@ The different prompts are:
 +=========================+==========================================================================+
 |:code:`thesis_title`     | Title of the thesis. Should not have '_' symbols in                      |
 |                         | it.                                                                      |
+|                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Understanding Exoplanets and Other Variable Sources                    |
@@ -51,6 +52,7 @@ The different prompts are:
 +-------------------------+--------------------------------------------------------------------------+
 |:code:`first_name`       | Author's first name. :code:`first_name` will used                        |
 |                         | for the *title page* of the dissertation.                                |
+|                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Adam                                                                   |
@@ -58,6 +60,7 @@ The different prompts are:
 +-------------------------+--------------------------------------------------------------------------+
 |:code:`last_name`        | Author's **last** name. :code:`last_name` will used for the *title page* |
 |                         | of the dissertation.                                                     |
+|                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Calderon                                                               |
@@ -66,12 +69,14 @@ The different prompts are:
 |:code:`repo_name`        | Name of the directory/repository, in which the thesis will be saved      |
 |                         | This name is selected by default, but can be changed.                    |
 |                         | This field **should not contain spaces**                                 |
+|                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Calderon_Victor_Astro_PhD_Thesis                                       |
 |                         | * Szewciw_Adam_Astro_PhD_Thesis                                          |
 +-------------------------+--------------------------------------------------------------------------+
 |:code:`add_signatures`   | Option for adding signatures to the thesis.                              |
+|                         |                                                                          |
 |                         | Options:                                                                 |
 |                         |                                                                          |
 |                         | 1. "y" ... Add signatures                                                |
@@ -79,6 +84,7 @@ The different prompts are:
 +-------------------------+--------------------------------------------------------------------------+
 |:code:`department_name`  | Name of the department. Default: **Physics and Astronomy**               |
 |                         | Should **not** contain '_' (underscores) symbols                         |
+|                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Physics and Astronomy                                                  |
@@ -86,6 +92,7 @@ The different prompts are:
 +-------------------------+--------------------------------------------------------------------------+
 |:code:`dissertation_date`| Date of the Dissertation presentation.                                   |
 |                         | Format: :code:`Month Year`                                               |
+|                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * May 2019                                                               |
@@ -93,6 +100,7 @@ The different prompts are:
 +-------------------------+--------------------------------------------------------------------------+
 |:code:`name_committee_1` | First and last name of the committee member 1.                           |
 |                         | Should not have '_' symbols in it.                                       |
+|                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Keivan Stassun                                                         |
@@ -100,6 +108,7 @@ The different prompts are:
 +---------------------+------------------------------------------------------------------------------+
 |:code:`name_committee_1` | First and last name of the committee member 1.                           |
 |                         | Should not have '_' symbols in it.                                       |
+|                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Keivan Stassun                                                         |
@@ -107,6 +116,7 @@ The different prompts are:
 +---------------------+------------------------------------------------------------------------------+
 |:code:`name_committee_1` | First and last name of the committee member 1.                           |
 |                         | Should not have '_' symbols in it.                                       |
+|                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Keivan Stassun                                                         |
@@ -114,6 +124,7 @@ The different prompts are:
 +---------------------+------------------------------------------------------------------------------+
 |:code:`name_committee_1` | First and last name of the committee member 1.                           |
 |                         | Should not have '_' symbols in it.                                       |
+|                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Keivan Stassun                                                         |
@@ -121,6 +132,7 @@ The different prompts are:
 +---------------------+------------------------------------------------------------------------------+
 |:code:`name_committee_1` | First and last name of the committee member 1.                           |
 |                         | Should not have '_' symbols in it.                                       |
+|                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Keivan Stassun                                                         |
