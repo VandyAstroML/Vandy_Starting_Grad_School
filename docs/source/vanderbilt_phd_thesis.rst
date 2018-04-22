@@ -66,9 +66,9 @@ The different prompts are:
 |                         | * Calderon                                                               |
 |                         | * Piscionere                                                             |
 +-------------------------+--------------------------------------------------------------------------+
-|:code:`repo_name`        | Name of the directory/repository, in which the thesis will be saved      |
+|:code:`repo_name`        | Name of the directory/repository, in which the thesis will be saved.     |
 |                         | This name is selected by default, but can be changed.                    |
-|                         | This field **should not contain spaces**                                 |
+|                         | This field **should not contain spaces**.                                |
 |                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
@@ -82,8 +82,8 @@ The different prompts are:
 |                         | 1. "y" ... Add signatures                                                |
 |                         | 2. "n" ... Do not add signatures                                         |
 +-------------------------+--------------------------------------------------------------------------+
-|:code:`department_name`  | Name of the department. Default: **Physics and Astronomy**               |
-|                         | Should **not** contain '_' (underscores) symbols                         |
+|:code:`department_name`  | Name of the department. Default: **Physics and Astronomy**.              |
+|                         | Should **not** contain '_' (underscores) symbols.                        |
 |                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
@@ -91,7 +91,7 @@ The different prompts are:
 |                         | * Name of another department                                             |
 +-------------------------+--------------------------------------------------------------------------+
 |:code:`dissertation_date`| Date of the Dissertation presentation.                                   |
-|                         | Format: :code:`Month Year`                                               |
+|                         | Format: :code:`Month Year`.                                              |
 |                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
@@ -105,32 +105,32 @@ The different prompts are:
 |                         |                                                                          |
 |                         | * Keivan Stassun                                                         |
 |                         | * Andreas Berlind                                                        |
-+---------------------+------------------------------------------------------------------------------+
-|:code:`name_committee_1` | First and last name of the committee member 1.                           |
++-------------------------+--------------------------------------------------------------------------+
+|:code:`name_committee_2` | First and last name of the committee member 2.                           |
 |                         | Should not have '_' symbols in it.                                       |
 |                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Keivan Stassun                                                         |
 |                         | * Andreas Berlind                                                        |
-+---------------------+------------------------------------------------------------------------------+
-|:code:`name_committee_1` | First and last name of the committee member 1.                           |
++-------------------------+--------------------------------------------------------------------------+
+|:code:`name_committee_3` | First and last name of the committee member 3.                           |
 |                         | Should not have '_' symbols in it.                                       |
 |                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Keivan Stassun                                                         |
 |                         | * Andreas Berlind                                                        |
-+---------------------+------------------------------------------------------------------------------+
-|:code:`name_committee_1` | First and last name of the committee member 1.                           |
++-------------------------+--------------------------------------------------------------------------+
+|:code:`name_committee_4` | First and last name of the committee member 4.                           |
 |                         | Should not have '_' symbols in it.                                       |
 |                         |                                                                          |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Keivan Stassun                                                         |
 |                         | * Andreas Berlind                                                        |
-+---------------------+------------------------------------------------------------------------------+
-|:code:`name_committee_1` | First and last name of the committee member 1.                           |
++-------------------------+--------------------------------------------------------------------------+
+|:code:`name_committee_5` | First and last name of the committee member 5.                           |
 |                         | Should not have '_' symbols in it.                                       |
 |                         |                                                                          |
 |                         | Examples:                                                                |
