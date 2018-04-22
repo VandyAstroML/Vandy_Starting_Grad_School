@@ -41,14 +41,16 @@ The different prompts are:
 +-------------------------+--------------------------------------------------------------------------+
 |Question                 | Description                                                              |
 +=========================+==========================================================================+
-|:code:`thesis_title`     | Title of the thesis. Should not have '_' symbols in it.                  |
+|:code:`thesis_title`     | Title of the thesis. Should not have '_' symbols in                      |
+|                         | it.                                                                      |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Understanding Exoplanets and Other Variable Sources                    |
-|                         | * The Clustering of Galaxies on the Smallest Scales Across Cosmic Time   |
+|                         | * The Clustering of Galaxies on the Smallest Scales                      |
+|                         |   Across Cosmic Time                                                     |
 +-------------------------+--------------------------------------------------------------------------+
-|:code:`first_name`       | Author's first name. :code:`first_name` will used for the *title page*   |
-|                         | of the dissertation.                                                     |
+|:code:`first_name`       | Author's first name. :code:`first_name` will used                        |
+|                         | for the *title page* of the dissertation.                                |
 |                         | Examples:                                                                |
 |                         |                                                                          |
 |                         | * Adam                                                                   |
@@ -125,26 +127,6 @@ The different prompts are:
 |                         | * Andreas Berlind                                                        |
 +---------------------+------------------------------------------------------------------------------+
 
-
-
-.. {
-..     "thesis_title" : "Thesis Title",
-..     "first_name" : "firstname",
-..     "last_name" : "lastname",
-..     "repo_name" : "{{ cookiecutter.last_name + '_' + cookiecutter.first_name + '_Vanderbilt_Astro_PhD_Thesis' }}",
-..     "add_signatures" : ["y","n"],
-..     "department_name" : "Physics and Astronomy",
-..     "dissertation_date" : "May 2019",
-..     "name_committee_1" : "Member1",
-..     "name_committee_2" : "Member2",
-..     "name_committee_3" : "Member3",
-..     "name_committee_4" : "Member4",
-..     "name_committee_5" : "Member5",
-..     "_copy_without_render" : [
-..         "Extras/headings_settings.tex",
-..         "Extras/commands",
-..         "Extras/packages"]
-.. }
 
 
 
