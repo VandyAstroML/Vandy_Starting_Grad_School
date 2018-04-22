@@ -20,6 +20,7 @@ In case you have any questions, please contact me via
    python_intro
    python_packaging
    machine_learning
+   vanderbilt_phd_thesis
    useful_tools
    useful_links
 
