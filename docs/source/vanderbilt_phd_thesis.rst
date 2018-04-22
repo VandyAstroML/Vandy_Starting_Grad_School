@@ -47,8 +47,74 @@ The different prompts are:
 |                     | * 'Understanding Exoplanets and Other Variable Sources'                  |
 |                     | * 'The Clustering of Galaxies on the Smallest Scales Across Cosmic Time' |
 +---------------------+--------------------------------------------------------------------------+
-|:code:`Ctrl-a k`     | Kill the current window                                                  |
+|:code:`first_name` | Title of the thesis. Should not have '_' symbols in it.                  |
+|                     | Examples:                                                                |
+|                     |                                                                          |
+|                     | * 'Understanding Exoplanets and Other Variable Sources'                  |
+|                     | * 'The Clustering of Galaxies on the Smallest Scales Across Cosmic Time' |
 +---------------------+--------------------------------------------------------------------------+
+|:code:`last_name` | Title of the thesis. Should not have '_' symbols in it.                  |
+|                     | Examples:                                                                |
+|                     |                                                                          |
+|                     | * 'Understanding Exoplanets and Other Variable Sources'                  |
+|                     | * 'The Clustering of Galaxies on the Smallest Scales Across Cosmic Time' |
++---------------------+--------------------------------------------------------------------------+
+|:code:`repo_name` | Title of the thesis. Should not have '_' symbols in it.                  |
+|                     | Examples:                                                                |
+|                     |                                                                          |
+|                     | * 'Understanding Exoplanets and Other Variable Sources'                  |
+|                     | * 'The Clustering of Galaxies on the Smallest Scales Across Cosmic Time' |
++---------------------+--------------------------------------------------------------------------+
+|:code:`add_signatures` | Title of the thesis. Should not have '_' symbols in it.                  |
+|                     | Examples:                                                                |
+|                     |                                                                          |
+|                     | * 'Understanding Exoplanets and Other Variable Sources'                  |
+|                     | * 'The Clustering of Galaxies on the Smallest Scales Across Cosmic Time' |
++---------------------+--------------------------------------------------------------------------+
+|:code:`department_name` | Title of the thesis. Should not have '_' symbols in it.                  |
+|                     | Examples:                                                                |
+|                     |                                                                          |
+|                     | * 'Understanding Exoplanets and Other Variable Sources'                  |
+|                     | * 'The Clustering of Galaxies on the Smallest Scales Across Cosmic Time' |
++---------------------+--------------------------------------------------------------------------+
+|:code:`dissertation_date` | Title of the thesis. Should not have '_' symbols in it.                  |
+|                     | Examples:                                                                |
+|                     |                                                                          |
+|                     | * 'Understanding Exoplanets and Other Variable Sources'                  |
+|                     | * 'The Clustering of Galaxies on the Smallest Scales Across Cosmic Time' |
++---------------------+--------------------------------------------------------------------------+
+|:code:`name_committee_1` | Title of the thesis. Should not have '_' symbols in it.                  |
+|                     | Examples:                                                                |
+|                     |                                                                          |
+|                     | * 'Understanding Exoplanets and Other Variable Sources'                  |
+|                     | * 'The Clustering of Galaxies on the Smallest Scales Across Cosmic Time' |
++---------------------+--------------------------------------------------------------------------+
+|:code:`name_committee_2` | Title of the thesis. Should not have '_' symbols in it.                  |
+|                     | Examples:                                                                |
+|                     |                                                                          |
+|                     | * 'Understanding Exoplanets and Other Variable Sources'                  |
+|                     | * 'The Clustering of Galaxies on the Smallest Scales Across Cosmic Time' |
++---------------------+--------------------------------------------------------------------------+
+|:code:`name_committee_3` | Title of the thesis. Should not have '_' symbols in it.                  |
+|                     | Examples:                                                                |
+|                     |                                                                          |
+|                     | * 'Understanding Exoplanets and Other Variable Sources'                  |
+|                     | * 'The Clustering of Galaxies on the Smallest Scales Across Cosmic Time' |
++---------------------+--------------------------------------------------------------------------+
+|:code:`name_committee_4` | Title of the thesis. Should not have '_' symbols in it.                  |
+|                     | Examples:                                                                |
+|                     |                                                                          |
+|                     | * 'Understanding Exoplanets and Other Variable Sources'                  |
+|                     | * 'The Clustering of Galaxies on the Smallest Scales Across Cosmic Time' |
++---------------------+--------------------------------------------------------------------------+
+|:code:`name_committee_5` | Title of the thesis. Should not have '_' symbols in it.                  |
+|                     | Examples:                                                                |
+|                     |                                                                          |
+|                     | * 'Understanding Exoplanets and Other Variable Sources'                  |
+|                     | * 'The Clustering of Galaxies on the Smallest Scales Across Cosmic Time' |
++---------------------+--------------------------------------------------------------------------+
+
+
 
 .. {
 ..     "thesis_title" : "Thesis Title",
