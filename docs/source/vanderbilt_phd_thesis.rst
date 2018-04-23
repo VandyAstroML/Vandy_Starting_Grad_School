@@ -262,6 +262,12 @@ and a PDF version of the :code:`thesis.tex` file will pop up.
     and make sure to have `MacTex <https://www.tug.org/mactex/>`_ installed 
     on your computer.
 
+An example of the resulting PDF can be found in: 
+
+.. image:: https://img.shields.io/badge/PDF-Latest-orange.svg
+    :target: ./documents/phd_thesis/thesis.pdf
+    :alt: Documentation Status
+
 
 
 
