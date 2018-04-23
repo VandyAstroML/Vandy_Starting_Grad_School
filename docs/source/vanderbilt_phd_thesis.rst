@@ -265,7 +265,7 @@ and a PDF version of the :code:`thesis.tex` file will pop up.
 An example of the resulting PDF can be found in: 
 
 .. image:: https://img.shields.io/badge/PDF-Latest-orange.svg
-    :target: :download:`pdf <./documents/phd_thesis/thesis.pdf>` 
+    :target: https://github.com/VandyAstroML/Vandy_Starting_Grad_School/blob/master/docs/source/documents/phd_thesis/thesis.pdf
     :alt: Documentation Status
 
 
