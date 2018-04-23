@@ -246,6 +246,12 @@ To compile your thesis, you will need to run the following commands:
 
 .. code-block:: shell
 
+    make all
+
+or 
+
+.. code-block:: shell
+
     make thesis.tex
 
 This will create all of the necessary files for compiling your thesis.
