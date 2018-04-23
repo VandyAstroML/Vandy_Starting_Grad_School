@@ -3,6 +3,10 @@
 Vanderbilt PhD Thesis - Template
 ********************************
 
+.. image:: https://img.shields.io/badge/PDF-Latest-orange.svg
+    :target: https://cdn.rawgit.com/VandyAstroML/Vandy_Starting_Grad_School/53e75f2c/docs/source/documents/phd_thesis/thesis.pdf
+    :alt: Documentation Status
+
 Whenever you're getting close to finishing your Ph.D., you will eventually 
 have to start writing up your dissertation. There are many templates 
 out there, but there has been one template passed around between  
