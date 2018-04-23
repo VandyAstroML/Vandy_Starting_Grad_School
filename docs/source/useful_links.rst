@@ -235,3 +235,11 @@ Jobs and Applications
 - `The Grad Cafe <https://thegradcafe.com/>`_ - Grad School Admissions Results, Tips, Forums, etc.
 - `AAS Job Register <https://jobregister.aas.org/>`_ - Find and post astronomy related jobs
 - `Benti-Fields Job Market <https://www.benty-fields.com/job_market>`_
+
+.. _Miscellaneous_links:
+-----------------------
+Miscellaneous Links
+-----------------------
+
+- `Badge Creator <https://shields.io/>`_ - Tool to create badges for your Github repositories.
+
