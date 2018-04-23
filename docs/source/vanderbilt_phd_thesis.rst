@@ -260,7 +260,7 @@ and a PDF version of the :code:`thesis.tex` file will pop up.
 
 .. note::
 
-    In order for properly use the Makefile and compile :code:`thesis.tex`,
+    In order to properly use the Makefile and compile :code:`thesis.tex`,
     you will need :code:`latexmk` installed. If you're on a MAC, you want 
     to check out `the Latexmk documentation <https://mg.readthedocs.io/latexmk.html>`_,
     and make sure to have `MacTex <https://www.tug.org/mactex/>`_ installed 
