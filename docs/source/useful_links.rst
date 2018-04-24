@@ -119,7 +119,7 @@ Interesting Python Packages
 
 - `Halotools <https://halotools.readthedocs.io>`_
 - `Astropy <http://www.astropy.org/>`_
-- `Pandas <https://pandas.pydata.org/>`_ and `Tutorial <https://www.tutorialspoint.com/python_pandas/>`_
+- `Pandas <https://pandas.pydata.org/>`_ and `Tutorial <https://www.tutorialspoint.com/python_pandas/>`_ - `Another tutorial <https://tomaugspurger.github.io/modern-1-intro>`_ 
 - `Scikit-Learn <http://scikit-learn.org/>`_
 - `Astropy - Affiliated Packages <http://www.astropy.org/affiliated/>`_
 
