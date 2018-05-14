@@ -56,7 +56,7 @@ package project template. For more information on cookiecutter, see
 For creating a Python project, there are different methods.
 But I prefer these two methods:
 
-* `Astropy Template <https://github.com/astropy/package-template>`
+* `Astropy Template <https://github.com/astropy/package-template>`_
 * `PyPackage <https://cookiecutter-pypackage.readthedocs.io/en/latest/>`_
 
 Depending on what kind of package you intend to produce, the Astropy 
