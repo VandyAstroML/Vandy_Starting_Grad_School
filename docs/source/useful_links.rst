@@ -122,6 +122,20 @@ Interesting Python Packages
 - `Pandas <https://pandas.pydata.org/>`_ and `Tutorial <https://www.tutorialspoint.com/python_pandas/>`_ - `Another tutorial <https://tomaugspurger.github.io/modern-1-intro>`_ 
 - `Scikit-Learn <http://scikit-learn.org/>`_
 - `Astropy - Affiliated Packages <http://www.astropy.org/affiliated/>`_
+- `Corrfunc - Blazing fast correlation functions on the CPU <https://github.com/manodeep/corrfunc>`_ 
+
+.. _Python_Packaging_links:
+---------------------
+Python Packaging
+---------------------
+
+`Astropy Template for Python Packages - Github <https://github.com/astropy/package-template>`_ and its `documentation <http://docs.astropy.org/projects/package-template/en/latest/>`_ 
+`How to create and maintain a Python package using the Astropy template <http://docs.astropy.org/en/stable/development/astropy-package-template.html>`_
+`Cookiecutter template for a Python package <https://github.com/audreyr/cookiecutter-pypackage>`_ - I actually prefer the Astropy Template because of how easy it is to set up.
+`The Python Package Index (PyPi) <https://pypi.org/>`_ 
+`Read The Docs <https://readthedocs.org/dashboard/>`_ - Create custom documentation for your package and project for **free**. See :ref:`Astropy_Template_rtd_subsec` for more info.
+`Travis CI (Continuous Integration) <https://travis-ci.org/>`_ - Used for Continous Integration. For more information, see :ref:`Astropy_Template_continous_integrations_subsec`.
+
 
 .. _Code_Editors_links:
 -------------------
