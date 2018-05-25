@@ -1,4 +1,5 @@
 .. _Python101:
+
 ================================================
 Python 101 - Anaconda, environments, and more
 ================================================
@@ -10,6 +11,7 @@ in order to property use python in your projects.
     :local:
 
 .. _Python_Anaconda:
+
 --------------------
 Anaconda
 --------------------
@@ -31,6 +33,7 @@ allows you to not worry about installing missing dependencies,
 creates environments for you projects, etc.
 
 .. _Python_Anaconda_Install:
+
 ^^^^^^^^^^^^^^^^^^^^^
 Installing Anaconda
 ^^^^^^^^^^^^^^^^^^^^^
@@ -75,6 +78,7 @@ terminal:
     `ACCRE <http://www.accre.vanderbilt.edu/>`_.
 
 .. _Anaconda_Environments:
+
 ^^^^^^^^^^^^^^^^^^^^^^^
 Managing environments
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -132,6 +136,7 @@ For more information, see
     use it, see `<https://github.com/chdoig/conda-auto-env>`_.
 
 .. _Code_Structure:
+
 ----------------------------
 Structuring your code
 ----------------------------
@@ -145,6 +150,7 @@ look at your code, understand it well enough to be able to **recreate**
 your results.
 
 .. _Code_Cookiecutter:
+
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Cookiecutter and Folder Structure
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -232,6 +238,7 @@ you will have a directory with a folder structure that allows for
 easy reproducibility.
 
 .. _Python_Environment:
+
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Editing your environment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

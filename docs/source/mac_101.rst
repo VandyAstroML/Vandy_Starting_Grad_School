@@ -1,5 +1,6 @@
 
 .. _MAC101:
+
 ==========================
 MAC 101: An Introduction
 ==========================
@@ -22,6 +23,7 @@ packages that you may need are not *entirely* ready to be used.
 The first packages that you may need to install are the following:
 
 .. _Xcode:
+
 ^^^^^^^^^^^^^^^^^^^^
 Xcode
 ^^^^^^^^^^^^^^^^^^^^
@@ -67,6 +69,7 @@ to know more about **Xcode Command Line Tools**.
 
 
 .. _LaTeX:
+
 ^^^^^^^^^^^^^^^^^^^^
 LaTeX
 ^^^^^^^^^^^^^^^^^^^^
@@ -86,6 +89,7 @@ execute and run LaTeX on your computer.
 For a tutorial on how to use LaTeX, go to the links in :ref:`LaTeX_links`.
 
 .. _VPN:
+
 ^^^^^^^^^^^^^^^^^^^^
 Vanderbilt VPN
 ^^^^^^^^^^^^^^^^^^^^
@@ -98,6 +102,7 @@ client. This will will let you connect remotely to servers hosted at Vanderbilt 
 
 
 .. _MAC_Time_Machine:
+
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 MAC Time Machine & Backup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -120,6 +125,7 @@ In case you're interested, see `here <https://www.wdc.com/products/personal-clou
 
 
 .. _SSH:
+
 -------------
 SSH
 -------------
@@ -205,6 +211,7 @@ your password anytime that you want to access the remote server.
 This can be solved by using :code:`SSH keys`.
 
 .. _SSH_Keys:
+
 ^^^^^^^^^^^^^
 SSH-Keys
 ^^^^^^^^^^^^^
@@ -263,6 +270,7 @@ replacing :code:`key` with the name of the actual SSH-key.
     "config" file will provide!)
 
 .. _SSH_Config:
+
 ^^^^^^^^^^^^^^^^^
 SSH Config file
 ^^^^^^^^^^^^^^^^^
@@ -328,6 +336,7 @@ you should have created already. If not, follow these instructions
 `here <https://help.github.com/articles/connecting-to-github-with-ssh/>`_.
 
 .. _SSH_X11:
+
 """"""""""""""""""""""""""
 Forwarding X11 (MACs only)
 """"""""""""""""""""""""""

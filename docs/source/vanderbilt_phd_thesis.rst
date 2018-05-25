@@ -1,4 +1,5 @@
 .. _vanderbilt_pdh_thesis:
+
 ********************************
 Vanderbilt PhD Thesis - Template
 ********************************
@@ -16,6 +17,7 @@ Now, it's even easier to start writing your dissertation if you
 follow the following steps:
 
 .. _phd_thesis_steps:
+
 ========================================
 Steps to take to write your dissertation
 ========================================
@@ -25,6 +27,7 @@ The dissertation can be found at: `Vanderbilt Astro PhD Template <https://github
 This template is easy to use, and you only need to answer some questions.
 
 .. _vandy_phd_download:
+
 ---------------------------------
 Downloading Vanderbilt PhD Thesis
 ---------------------------------
@@ -45,6 +48,7 @@ This will install the necessary packages and directories for the PhD Thesis.
     be downloading the repository wherever.
 
 .. _vandy_phd_fields:
+
 ---------------------------------
 Downloading Vanderbilt PhD Thesis
 ---------------------------------
@@ -154,6 +158,7 @@ The different prompts are:
 +-------------------------+--------------------------------------------------------------------------+
 
 .. _vandy_phd_writing:
+
 ------------------
 Writing the Thesis
 ------------------
@@ -216,6 +221,7 @@ are located in the :code:`Chapters` directory. These are the ones
 that you need to edit.
 
 .. _vandy_phd_compiling:
+
 ---------------------
 Compiling your Thesis
 ---------------------

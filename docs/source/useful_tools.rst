@@ -1,4 +1,5 @@
 .. _useful_tools:
+
 *********************************
 Tools you might want to check out
 *********************************
@@ -7,6 +8,7 @@ Tools you might want to check out
     :local:
 
 .. _tools_intro:
+
 ============
 Introduction
 ============
@@ -17,6 +19,7 @@ stay at Vanderbilt. They have significantly improved my workflow, and
 have made the projects much easier to understand.
 
 .. _htop_sec:
+
 =====================================
 htop - An interactive viewer for Unix
 =====================================
@@ -27,6 +30,7 @@ memory is left, I like to use `htop <https://hisham.hm/htop/>`_.
 This application, as shown in 
 
 .. _Fig-1.1:
+
 .. figure:: ./images/useful_tools/htop.png
     :alt: htop running in the terminal
 
@@ -43,6 +47,7 @@ from the terminal:
     htop
 
 .. _htop_explained:
+
 --------------
 htop Explained
 --------------
@@ -51,6 +56,7 @@ htop has different things to offer. Figures :numref:`Fig-1.2` and
 :numref:`Fig-1.3` explain what each column means.
 
 .. _Fig-1.2:
+
 .. figure:: ./images/useful_tools/htop_top.png
 
    Figure 1.2: Top of *htop*. This figure shows the different components in the 
@@ -60,6 +66,7 @@ htop has different things to offer. Figures :numref:`Fig-1.2` and
 And the bottom part ...
 
 .. _Fig-1.3:
+
 .. figure:: ./images/useful_tools/htop_bottom.png
 
    Figure 1.3: Top of *htop*. This figure shows the different components in the 
@@ -68,6 +75,7 @@ And the bottom part ...
 
 
 .. _htop_resources:
+
 ---------------
 Further Reading
 ---------------
@@ -80,6 +88,7 @@ see:
 * `htop Explained <https://peteris.rocks/blog/htop/>`_
 
 .. _tmux_screen_sec:
+
 =============================================
 tmux and screen - Terminal Multiplexers
 =============================================
@@ -95,6 +104,7 @@ to go for dinner, or leave school to go home, you would have to stop the script
 since it wouldn't be running anymore. 
 
 .. _screen_sec:
+
 ------------
 Screen
 ------------
@@ -146,6 +156,7 @@ For some useful tutorials, see:
 * `Learn to use screen, a terminal multiplexer <https://dev.to/thiht/learn-to-use-screen-a-terminal-multiplexer-gl>`_ 
 
 .. _tmux_sec:
+
 --------
 Tmux
 --------
@@ -155,12 +166,14 @@ For further reading and tutorials, see these:
 * `A Gentle introduction to tmux <https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340>`_
   
 .. _crontab_sec:
+
 ==============
 Crontab
 ==============
 
 
 .. _whole_tale_sec:
+
 ==============
 Whole Tale
 ==============

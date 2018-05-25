@@ -1,4 +1,5 @@
 .. _Useful_links:
+
 =============================
 Useful links and Resources
 =============================
@@ -11,6 +12,7 @@ It includes links related to science, coding, machine learning, etc.
     :local:
 
 .. _General_links:
+
 -----------------
 General
 -----------------
@@ -22,6 +24,7 @@ General
 - `Vandy Astronomy - Workshops and Seminars <https://vandyastroml.github.io>`_ - Main Website for the Astronomy Workshops and Seminars at Vanderbilt
 
 .. _MAC_links:
+
 ----------------------------------
 MAC-related (if applicable)
 ----------------------------------
@@ -29,6 +32,7 @@ MAC-related (if applicable)
 - `Apps for MACs <http://www.astrobetter.com/wiki/tiki-index.php?page=Mac+Apps>`_
 
 .. _Reading_Papers_links:
+
 -----------------
 Reading Papers
 -----------------
@@ -45,6 +49,7 @@ Reading Papers
 - `AAS Nova <http://aasnova.org/>`_ - Research highlights from the journals of the American Astronomical Society
 
 .. _Giving_Presentations_links:
+
 -------------------------
 Giving Presentations
 -------------------------
@@ -54,6 +59,7 @@ Giving Presentations
 - `Giving a Scientific Talk <http://as.vanderbilt.edu/astronomy/manage/wp-content/uploads/2012/01/ajc_scientific_talk_pointers.pdf>`_
 
 .. _Paper_Management_links:
+
 -----------------
 Paper Management
 -----------------
@@ -61,6 +67,7 @@ Paper Management
 - `Mendeley <https://www.mendeley.com/>`_
 
 .. _Taking_Notesv:
+
 -------------------
 Taking Notes
 -------------------
@@ -69,6 +76,7 @@ Taking Notes
 - `OneNote <https://www.onenote.com/>`_
 
 .. _Collaborations_links:
+
 -------------------
 Collaborations
 -------------------
@@ -76,6 +84,7 @@ Collaborations
 - `Slack <https://slack.com/>`_
 
 .. _Conferences_links:
+
 -----------------
 Conferences
 -----------------
@@ -84,6 +93,7 @@ Conferences
 - `Conference Management Software for Astronomy <https://www.conference-service.com/conferences/gravitation-and-cosmology.html>`_
 
 .. _General_Learning_links:
+
 -----------------
 General Learning
 -----------------
@@ -97,6 +107,7 @@ General Learning
 - `DataGeekette - Walkthrough for Aspiring Data Scientists <https://datageekette.com/>`_
 
 .. _Python_Anaconda_links:
+
 -------------------
 Python & Anaconda
 -------------------
@@ -113,6 +124,7 @@ Python & Anaconda
 - `Python for Scientists Tutorial <https://astrofrog.github.io/py4sci>`_ - Set of lecture notes by `Thomas Robitaille <http://www.thomasrobitaille.com/>`_
 
 .. _Interesting_Python_Packages_links:
+
 ----------------------------------
 Interesting Python Packages
 ----------------------------------
@@ -125,6 +137,7 @@ Interesting Python Packages
 - `Corrfunc - Blazing fast correlation functions on the CPU <https://github.com/manodeep/corrfunc>`_ 
 
 .. _Python_Packaging_links:
+
 ---------------------
 Python Packaging
 ---------------------
@@ -138,6 +151,7 @@ Python Packaging
 
 
 .. _Code_Editors_links:
+
 -------------------
 Code Editors
 -------------------
@@ -149,6 +163,7 @@ Code Editors
 - `VIM for Beginners <https://computers.tutsplus.com/tutorials/vim-for-beginners--cms-21118>`_
 
 .. _Code_Structure_links:
+
 -------------------
 Code Structure
 -------------------
@@ -159,6 +174,7 @@ Code Structure
 - `Create Documentation with RST, Sphinx, Sublime, and GitHub <https://sublime-and-sphinx-guide.readthedocs.io/en/latest/>`_
 
 .. _Version_Control_links:
+
 -----------------
 Version Control
 -----------------
@@ -169,6 +185,7 @@ Version Control
 - `Bitbucket <https://bitbucket.org/>`_
 
 .. _SSH_Keys_links:
+
 -----------------
 SSH Keys
 -----------------
@@ -177,12 +194,15 @@ SSH Keys
 - `Connecting to Github with SSH <https://help.github.com/articles/connecting-to-github-with-ssh/>`_
 
 .. _LaTeX_links:
+
 -----------------
 LaTeX
 -----------------
 
 - `Installing LaTeX <http://www.astrobetter.com/blog/2010/07/06/install-latex/>`_
 - `Learn LaTeX in 30 minutes <https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes>`_
+
+.. _Writing_Papers:
 
 -----------------
 Writing Papers
@@ -193,6 +213,7 @@ Writing Papers
 - `Acknowledgment Generator <https://astrofrog.github.io/acknowledgment-generator/>`_ - Easy way to write the __Acknowledgement section of a paper
 
 .. _Online_Presentations_links:
+
 -----------------------
 Online Presentations
 -----------------------
@@ -202,6 +223,7 @@ Online Presentations
 - `Galaxy Formation Conferences - Lectures and Videos <http://astro.dur.ac.uk/Gal2011/talks.php>`_
 
 .. _Machine_Learning_links:
+
 -----------------
 Machine Learning
 -----------------
@@ -219,6 +241,7 @@ Machine Learning
 - `TensorFlow tutorial <https://github.com/dfm/tf-tutorial>`_ - Non-traditional TensorFlow tutorial by `Daniel Foreman-Mackey <https://github.com/dfm>`_
 
 .. _Papers_links:
+
 -----------------
 Papers
 -----------------
@@ -228,6 +251,7 @@ Papers
 - `Interactive Notebooks: Sharing the Code <http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261>`_ by Helen Shen
 
 .. _Interesting_Books_links:
+
 ---------------------
 Interesting Books
 ---------------------
@@ -241,6 +265,7 @@ Interesting Books
 - `An Introduction to Modern Astrophysics <https://www.amazon.com/Introduction-Modern-Astrophysics-2nd/dp/0805304029>`_ by Bradley Carroll
 
 .. _Jobs_and_Applications_links:
+
 ----------------------
 Jobs and Applications
 ----------------------
@@ -251,6 +276,7 @@ Jobs and Applications
 - `Benti-Fields Job Market <https://www.benty-fields.com/job_market>`_
 
 .. _Miscellaneous_links:
+
 -----------------------
 Miscellaneous Links
 -----------------------
