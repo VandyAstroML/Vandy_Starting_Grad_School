@@ -18,6 +18,7 @@ In case you have any questions, please contact me via
 
    mac_101
    python_intro
+   structuring_your_code
    python_packaging
    machine_learning
    vanderbilt_phd_thesis
