@@ -265,7 +265,7 @@ instead.
 .. _proj_struc_cookiecutter_VC_github:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Adding your Project repository it to Github
+Adding your Project repository to Github
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 If you follow the instructions from above, you should have
