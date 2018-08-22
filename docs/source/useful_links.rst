@@ -172,6 +172,7 @@ Code Structure
 - `Markdown CheatSheet <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>`_
 - `Restructured Text (reST) CheatSheet <https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst>`_
 - `Create Documentation with RST, Sphinx, Sublime, and GitHub <https://sublime-and-sphinx-guide.readthedocs.io/en/latest/>`_
+- `An introduction to Sphinx and Read the Docs for Technical Writers <http://ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/>`_ 
 
 .. _Version_Control_links:
 
