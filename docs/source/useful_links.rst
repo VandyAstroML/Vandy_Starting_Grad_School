@@ -283,4 +283,5 @@ Miscellaneous Links
 -----------------------
 
 - `Badge Creator <https://shields.io/>`_ - Tool to create badges for your Github repositories.
+- `Guide to Science Policy - Astrobites <https://astrobites.org/guides/guide-to-science-policy/>`_ 
 
