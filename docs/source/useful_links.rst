@@ -223,6 +223,16 @@ Online Presentations
 - `Frank van den Bosch - Video Lectures <http://campuspress.yale.edu/vdbosch/teaching/video-lectures/>`_
 - `Galaxy Formation Conferences - Lectures and Videos <http://astro.dur.ac.uk/Gal2011/talks.php>`_
 
+
+.. _Data_Science_links:
+
+------------
+Data Science
+------------
+
+- `Kaggle Learn <https://www.kaggle.com/learn/overview>`_ - Faster Data Science Education
+
+
 .. _Machine_Learning_links:
 
 -----------------
