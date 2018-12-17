@@ -251,6 +251,7 @@ Machine Learning
 - `Essentials of Machine Learning Algorithms (with Python and R Codes) <https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/>`_ - Nice explanation of ML concepts and algorithms
 - `TensorFlow tutorial <https://github.com/dfm/tf-tutorial>`_ - Non-traditional TensorFlow tutorial by `Daniel Foreman-Mackey <https://github.com/dfm>`_
 - `Essential libraries for Machine Learning in Python  <https://medium.freecodecamp.org/essential-libraries-for-machine-learning-in-python-82a9ada57aeb>`_ 
+- `VIP Cheatsheets for Stanford CS 230 Deep Learning <https://github.com/afshinea/stanford-cs-230-deep-learning>`_ and `in other languages <https://github.com/shervinea/cheatsheet-translation>`_ 
 
 .. _Papers_links:
 
