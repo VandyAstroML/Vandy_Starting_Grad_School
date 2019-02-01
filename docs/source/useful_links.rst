@@ -231,7 +231,7 @@ Data Science
 ------------
 
 - `Kaggle Learn <https://www.kaggle.com/learn/overview>`_ - Faster Data Science Education
-
+- `Astronomy and Data Science Toolkin <https://datascience.astro4dev.org/>`_ - Connecting Astronomers and Data Science
 
 .. _Machine_Learning_links:
 
