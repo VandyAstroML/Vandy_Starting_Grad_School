@@ -232,6 +232,7 @@ Data Science
 
 - `Kaggle Learn <https://www.kaggle.com/learn/overview>`_ - Faster Data Science Education
 - `Astronomy and Data Science Toolkin <https://datascience.astro4dev.org/>`_ - Connecting Astronomers and Data Science
+- `12 things I wish I’d known before starting as a Data Scientist <https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e>`_ 
 
 .. _Machine_Learning_links:
 
