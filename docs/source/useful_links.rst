@@ -253,6 +253,7 @@ Machine Learning
 - `TensorFlow tutorial <https://github.com/dfm/tf-tutorial>`_ - Non-traditional TensorFlow tutorial by `Daniel Foreman-Mackey <https://github.com/dfm>`_
 - `Essential libraries for Machine Learning in Python  <https://medium.freecodecamp.org/essential-libraries-for-machine-learning-in-python-82a9ada57aeb>`_ 
 - `VIP Cheatsheets for Stanford CS 230 Deep Learning <https://github.com/afshinea/stanford-cs-230-deep-learning>`_ and `in other languages <https://github.com/shervinea/cheatsheet-translation>`_ 
+- `Best Machine Learning resources <https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1>`_ 
 
 .. _Papers_links:
 
